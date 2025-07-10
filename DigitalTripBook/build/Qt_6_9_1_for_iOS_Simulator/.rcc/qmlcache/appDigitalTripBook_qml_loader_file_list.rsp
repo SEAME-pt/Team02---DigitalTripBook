@@ -1,0 +1,10 @@
+--resource
+/Users/luis/Desktop/DigitalTripBook/build/Qt_6_9_1_for_iOS_Simulator/.qt/rcc/qmake_DigitalTripBook.qrc
+--resource
+/Users/luis/Desktop/DigitalTripBook/build/Qt_6_9_1_for_iOS_Simulator/.qt/rcc/appDigitalTripBook_raw_qml_0.qrc
+/qt/qml/DigitalTripBook/Main.qml
+/qt/qml/DigitalTripBook/HomePage.qml
+/qt/qml/DigitalTripBook/JourneysPage.qml
+/qt/qml/DigitalTripBook/MediaPage.qml
+/qt/qml/DigitalTripBook/StatisticsPage.qml
+/qt/qml/DigitalTripBook/TripDetailPage.qml

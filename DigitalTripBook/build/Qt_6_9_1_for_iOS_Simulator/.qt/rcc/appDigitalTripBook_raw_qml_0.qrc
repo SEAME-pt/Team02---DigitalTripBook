@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/qt/qml/DigitalTripBook/">
+    <file alias="Main.qml">/Users/luis/Desktop/DigitalTripBook/Main.qml</file>
+    <file alias="HomePage.qml">/Users/luis/Desktop/DigitalTripBook/HomePage.qml</file>
+    <file alias="JourneysPage.qml">/Users/luis/Desktop/DigitalTripBook/JourneysPage.qml</file>
+    <file alias="MediaPage.qml">/Users/luis/Desktop/DigitalTripBook/MediaPage.qml</file>
+    <file alias="StatisticsPage.qml">/Users/luis/Desktop/DigitalTripBook/StatisticsPage.qml</file>
+    <file alias="TripDetailPage.qml">/Users/luis/Desktop/DigitalTripBook/TripDetailPage.qml</file>
+    <file alias="resources.qrc">/Users/luis/Desktop/DigitalTripBook/resources.qrc</file>
+  </qresource>
+</RCC>
+

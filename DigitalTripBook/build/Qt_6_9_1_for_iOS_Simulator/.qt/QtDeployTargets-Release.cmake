@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appDigitalTripBook_FILE /Users/luis/Desktop/DigitalTripBook/build/Qt_6_9_1_for_iOS_Simulator/Release${EFFECTIVE_PLATFORM_NAME}/appDigitalTripBook.app/appDigitalTripBook)
+set(__QT_DEPLOY_TARGET_appDigitalTripBook_TYPE EXECUTABLE)

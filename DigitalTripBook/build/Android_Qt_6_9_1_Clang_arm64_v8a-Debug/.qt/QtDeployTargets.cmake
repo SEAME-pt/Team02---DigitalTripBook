@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appDigitalTripBook_FILE /Users/luis/Desktop/DigitalTripBook/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug/libappDigitalTripBook_arm64-v8a.so)
+set(__QT_DEPLOY_TARGET_appDigitalTripBook_TYPE MODULE_LIBRARY)

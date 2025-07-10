@@ -1,0 +1,2 @@
+dependencies: \
+  /Users/luis/Desktop/DigitalTripBook/build/Qt_6_9_1_for_iOS_Simulator/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp

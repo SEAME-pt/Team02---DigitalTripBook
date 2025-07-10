@@ -1,0 +1,14 @@
+-rootPath
+/Users/luis/Desktop/DigitalTripBook
+-cmake-output
+-output-file
+/Users/luis/Desktop/DigitalTripBook/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug/.qt/qml_imports/appDigitalTripBook_conf.cmake
+-importPath
+/Users/luis/Desktop/DigitalTripBook/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug/DigitalTripBook
+-importPath
+/Users/luis/Desktop/DigitalTripBook/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug
+-importPath
+/Users/luis/Qt/6.9.1/android_arm64_v8a/qml
+-qrcFiles
+/Users/luis/Desktop/DigitalTripBook/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug/.qt/rcc/qmake_DigitalTripBook.qrc
+/Users/luis/Desktop/DigitalTripBook/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug/.qt/rcc/appDigitalTripBook_raw_qml_0.qrc

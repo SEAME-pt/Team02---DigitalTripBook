@@ -1,0 +1,10 @@
+module DigitalTripBook
+typeinfo appDigitalTripBook.qmltypes
+prefer :/qt/qml/DigitalTripBook/
+Main 1.0 Main.qml
+JourneysPage 1.0 JourneysPage.qml
+HomePage 1.0 HomePage.qml
+MediaPage 1.0 MediaPage.qml
+StatisticsPage 1.0 StatisticsPage.qml
+TripDetailPage 1.0 TripDetailPage.qml
+

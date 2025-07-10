@@ -1,0 +1,8 @@
+#!/bin/sh
+
+/Users/luis/Qt/6.9.1/macos/libexec/qt-android-runner.py \
+    --adb "/Users/luis/Library/Android/sdk/platform-tools/adb" \
+    --build-path "/Users/luis/Desktop/DigitalTripBook/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug/android-build-appDigitalTripBook" \
+    --apk "/Users/luis/Desktop/DigitalTripBook/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug/android-build-appDigitalTripBook/appDigitalTripBook.apk" \
+    $@
+

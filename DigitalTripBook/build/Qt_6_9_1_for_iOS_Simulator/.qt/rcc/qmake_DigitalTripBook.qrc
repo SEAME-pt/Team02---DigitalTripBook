@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/DigitalTripBook">
+    <file alias="qmldir">/Users/luis/Desktop/DigitalTripBook/build/Qt_6_9_1_for_iOS_Simulator/DigitalTripBook/qmldir</file>
+  </qresource>
+</RCC>
+

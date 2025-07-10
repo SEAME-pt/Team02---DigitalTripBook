@@ -1,0 +1,17 @@
+--bare
+-I
+/Users/luis/Desktop/DigitalTripBook/build/Qt_6_9_1_for_macOS-Debug
+-I
+/Users/luis/Qt/6.9.1/macos/qml
+--resource
+/Users/luis/Desktop/DigitalTripBook/build/Qt_6_9_1_for_macOS-Debug/.qt/rcc/qmake_DigitalTripBook.qrc
+--resource
+/Users/luis/Desktop/DigitalTripBook/build/Qt_6_9_1_for_macOS-Debug/.qt/rcc/appDigitalTripBook_raw_qml_0.qrc
+/Users/luis/Desktop/DigitalTripBook/Main.qml
+/Users/luis/Desktop/DigitalTripBook/HomePage.qml
+/Users/luis/Desktop/DigitalTripBook/JourneysPage.qml
+/Users/luis/Desktop/DigitalTripBook/MediaPage.qml
+/Users/luis/Desktop/DigitalTripBook/StatisticsPage.qml
+/Users/luis/Desktop/DigitalTripBook/TripDetailPage.qml
+--json
+/Users/luis/Desktop/DigitalTripBook/build/Qt_6_9_1_for_macOS-Debug/appDigitalTripBook_qmllint.json

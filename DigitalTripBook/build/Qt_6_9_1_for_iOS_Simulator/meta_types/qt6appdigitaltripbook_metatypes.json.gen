@@ -1,0 +1,56 @@
+[
+    {
+        "classes": [
+            {
+                "className": "DatabaseHandler",
+                "lineNumber": 8,
+                "methods": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "name": "initDb",
+                        "returnType": "bool"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "page",
+                                "type": "int"
+                            },
+                            {
+                                "name": "pageSize",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 1,
+                        "name": "getTrips",
+                        "returnType": "QVariantList"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "tripId",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 2,
+                        "name": "getTripDetails",
+                        "returnType": "QVariantMap"
+                    }
+                ],
+                "object": true,
+                "qualifiedClassName": "DatabaseHandler",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "databasehandler.h",
+        "outputRevision": 69
+    }
+]

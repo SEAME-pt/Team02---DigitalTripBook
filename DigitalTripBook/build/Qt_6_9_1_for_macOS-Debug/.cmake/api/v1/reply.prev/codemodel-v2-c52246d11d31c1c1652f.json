@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-76e4bdbbc0c49d1cfe58.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DigitalTripBook",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-8979a55e75bb207ee451.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-bbe18870a26ac561d45e.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-2e5e75e11b7e58bdd539.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-b9522e5ec761d1b8cf80.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-9cdb1a9da1cd9fb31b69.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDigitalTripBook::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDigitalTripBook-Debug-2cb05469f3b4448dd8eb.json",
+					"name" : "appDigitalTripBook",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDigitalTripBook_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDigitalTripBook_autogen-Debug-61f63ac4bbe8af168236.json",
+					"name" : "appDigitalTripBook_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDigitalTripBook_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDigitalTripBook_autogen_timestamp_deps-Debug-b40459c430fbdcb830be.json",
+					"name" : "appDigitalTripBook_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDigitalTripBook_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDigitalTripBook_copy_qml-Debug-d3f52b09cc425092b364.json",
+					"name" : "appDigitalTripBook_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDigitalTripBook_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDigitalTripBook_copy_res-Debug-0f6f7669b350786cb988.json",
+					"name" : "appDigitalTripBook_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDigitalTripBook_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDigitalTripBook_qmlimportscan-Debug-745ef882a006443b0555.json",
+					"name" : "appDigitalTripBook_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDigitalTripBook_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDigitalTripBook_qmllint-Debug-1dccb345b418ea82820c.json",
+					"name" : "appDigitalTripBook_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDigitalTripBook_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDigitalTripBook_qmllint_json-Debug-c8eac51a7cfbb4ae8870.json",
+					"name" : "appDigitalTripBook_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDigitalTripBook_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDigitalTripBook_qmllint_module-Debug-9cfdd0bafe8a1a0e95d5.json",
+					"name" : "appDigitalTripBook_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appDigitalTripBook_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appDigitalTripBook_qmltyperegistration-Debug-735cf1a4b812b48ddaaa.json",
+					"name" : "appDigitalTripBook_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appDigitalTripBook_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appDigitalTripBook_aotstats_target-Debug-ee0da6052bfa650dcec4.json",
+					"name" : "module_appDigitalTripBook_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/luis/Desktop/DigitalTripBook/build/Qt_6_9_1_for_macOS-Debug",
+		"source" : "/Users/luis/Desktop/DigitalTripBook"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

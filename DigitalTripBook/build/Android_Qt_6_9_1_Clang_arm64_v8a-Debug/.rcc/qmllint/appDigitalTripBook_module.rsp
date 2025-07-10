@@ -1,0 +1,10 @@
+-I
+/Users/luis/Desktop/DigitalTripBook/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug
+-I
+/Users/luis/Qt/6.9.1/android_arm64_v8a/qml
+--resource
+/Users/luis/Desktop/DigitalTripBook/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug/.qt/rcc/qmake_DigitalTripBook.qrc
+--resource
+/Users/luis/Desktop/DigitalTripBook/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug/.qt/rcc/appDigitalTripBook_raw_qml_0.qrc
+--module
+DigitalTripBook

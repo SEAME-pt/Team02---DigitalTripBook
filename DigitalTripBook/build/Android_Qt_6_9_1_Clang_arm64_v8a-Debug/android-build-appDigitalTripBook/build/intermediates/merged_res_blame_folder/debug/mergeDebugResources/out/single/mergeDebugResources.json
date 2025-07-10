@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "org.qtproject.example.appDigitalTripBook-debug-10:/xml_qtprovider_paths.xml.flat",
+        "source": "org.qtproject.example.appDigitalTripBook-android-build-appDigitalTripBook-11:/xml/qtprovider_paths.xml"
+    }
+]
