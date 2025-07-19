@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="/qt/qml/Team02_DigitalTripBook/">
+    <file alias="Main.qml">/Users/luis/Desktop/Team02_DigitalTripBook/Main.qml</file>
+    <file alias="Colors.qml">/Users/luis/Desktop/Team02_DigitalTripBook/Colors.qml</file>
+    <file alias="CustomButton.qml">/Users/luis/Desktop/Team02_DigitalTripBook/CustomButton.qml</file>
+    <file alias="CustomToolBar.qml">/Users/luis/Desktop/Team02_DigitalTripBook/CustomToolBar.qml</file>
+    <file alias="LoadingScreen.qml">/Users/luis/Desktop/Team02_DigitalTripBook/LoadingScreen.qml</file>
+    <file alias="HomeScreen.qml">/Users/luis/Desktop/Team02_DigitalTripBook/HomeScreen.qml</file>
+    <file alias="TripBookingScreen.qml">/Users/luis/Desktop/Team02_DigitalTripBook/TripBookingScreen.qml</file>
+    <file alias="ExploreScreen.qml">/Users/luis/Desktop/Team02_DigitalTripBook/ExploreScreen.qml</file>
+    <file alias="MyTripsScreen.qml">/Users/luis/Desktop/Team02_DigitalTripBook/MyTripsScreen.qml</file>
+    <file alias="TripDetailsScreen.qml">/Users/luis/Desktop/Team02_DigitalTripBook/TripDetailsScreen.qml</file>
+    <file alias="StatisticsScreen.qml">/Users/luis/Desktop/Team02_DigitalTripBook/StatisticsScreen.qml</file>
+    <file alias="ApplicationFlow.qml">/Users/luis/Desktop/Team02_DigitalTripBook/ApplicationFlow.qml</file>
+  </qresource>
+</RCC>
+

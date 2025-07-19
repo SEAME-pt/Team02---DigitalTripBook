@@ -1,0 +1,268 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 25,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "trips",
+                        "line": 6
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "Cannot access value for name Colors",
+                        "functionName": "color",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 17,
+                        "errorMessage": "Cannot access value for name influxClient",
+                        "functionName": "onCompleted",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 10,
+                        "errorMessage": "Cannot access value for name trips",
+                        "functionName": "model",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 2032,
+                        "errorMessage": "Cannot load property cardColor from Colors::currentTheme with type QVariant.",
+                        "functionName": "color",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 6,
+                        "errorMessage": "Cannot load property borderColor from Colors::currentTheme with type QVariant.",
+                        "functionName": "color",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 119,
+                        "errorMessage": "Cannot access value for name myTripsScreen",
+                        "functionName": "onClicked",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 142,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "text",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 5,
+                        "errorMessage": "Cannot load property primary from Colors::currentTheme with type QVariant.",
+                        "functionName": "color",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "text",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 5,
+                        "errorMessage": "Cannot load property caption from Colors::currentTheme with type QVariant.",
+                        "functionName": "color",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 18,
+                        "durationMicroseconds": 10,
+                        "errorMessage": "Cannot access value for name trips",
+                        "functionName": "visible",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 15,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 15,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 5,
+                        "errorMessage": "Cannot load property primary from Colors::currentTheme with type QVariant.",
+                        "functionName": "color",
+                        "line": 80
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 5,
+                        "errorMessage": "Cannot load property caption from Colors::currentTheme with type QVariant.",
+                        "functionName": "color",
+                        "line": 87
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 90
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 88
+                    }
+                ],
+                "filepath": "/Users/luis/Desktop/Team02_DigitalTripBook/MyTripsScreen.qml"
+            }
+        ],
+        "moduleId": "Team02_DigitalTripBook(appTeam02_DigitalTripBook)"
+    }
+]

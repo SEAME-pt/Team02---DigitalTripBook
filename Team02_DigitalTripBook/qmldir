@@ -1,0 +1,11 @@
+module Team02_DigitalTripBook
+singleton Colors 1.0 Colors.qml
+CustomButton 1.0 CustomButton.qml
+CustomToolBar 1.0 CustomToolBar.qml
+LoadingScreen 1.0 LoadingScreen.qml
+HomeScreen 1.0 HomeScreen.qml
+TripBookingScreen 1.0 TripBookingScreen.qml
+ExploreScreen 1.0 ExploreScreen.qml
+MyTripsScreen 1.0 MyTripsScreen.qml
+StatisticsScreen 1.0 StatisticsScreen.qml
+ApplicationFlow 1.0 ApplicationFlow.qml

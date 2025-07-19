@@ -1,0 +1,284 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": false,
+                        "column": 12,
+                        "durationMicroseconds": 1579,
+                        "errorMessage": "Cannot load property background from Colors::currentTheme with type QVariant.",
+                        "functionName": "color",
+                        "line": 6
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 18,
+                        "durationMicroseconds": 112,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 21,
+                        "durationMicroseconds": 14,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 21,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "",
+                        "functionName": "gradient",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 13,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 33,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 34,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 29,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 34,
+                        "durationMicroseconds": 18,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 17,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 29,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 18,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 24,
+                        "durationMicroseconds": 6,
+                        "errorMessage": "Cannot load property borderColor from Colors::currentTheme with type QVariant.",
+                        "functionName": "color",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 41,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "",
+                        "functionName": "gradient",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 41,
+                        "durationMicroseconds": 18,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 38,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "",
+                        "functionName": "type",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 29,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 18,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 96
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 95
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 22,
+                        "durationMicroseconds": 163,
+                        "errorMessage": "Cannot access value for name systemInitialized",
+                        "functionName": "onTriggered",
+                        "line": 108
+                    }
+                ],
+                "filePath": "/Users/luis/Desktop/Team02_DigitalTripBook/LoadingScreen.qml"
+            }
+        ],
+        "moduleId": "Team02_DigitalTripBook(appTeam02_DigitalTripBook)"
+    }
+]

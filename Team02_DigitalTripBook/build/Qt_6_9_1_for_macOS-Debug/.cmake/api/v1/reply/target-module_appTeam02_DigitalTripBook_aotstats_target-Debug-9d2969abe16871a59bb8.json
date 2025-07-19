@@ -1,0 +1,196 @@
+{
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"_qt_internal_deferred_aotstats_setup",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"/Users/luis/Qt/6.9.1/macos/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"/Users/luis/Qt/6.9.1/macos/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake:1103:EVAL",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"file" : 2,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 1,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1149,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 1154,
+				"parent" : 2
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 4,
+			"id" : "appTeam02_DigitalTripBook_qmltyperegistration::@6890427a1f51a3e7e1df"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "module_appTeam02_DigitalTripBook_aotstats_target::@6890427a1f51a3e7e1df",
+	"name" : "module_appTeam02_DigitalTripBook_aotstats_target",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/module_appTeam02_DigitalTripBook_aotstats_target",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/module_appTeam02_DigitalTripBook_aotstats_target.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_9_1_for_macOS-Debug/.rcc/qmlcache/module_appTeam02_DigitalTripBook.aotstats.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_9_1_for_macOS-Debug/.rcc/qmlcache/appTeam02_DigitalTripBook_ApplicationFlow_qml.cpp.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_9_1_for_macOS-Debug/.rcc/qmlcache/appTeam02_DigitalTripBook_Colors_qml.cpp.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_9_1_for_macOS-Debug/.rcc/qmlcache/appTeam02_DigitalTripBook_CustomButton_qml.cpp.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_9_1_for_macOS-Debug/.rcc/qmlcache/appTeam02_DigitalTripBook_CustomToolBar_qml.cpp.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_9_1_for_macOS-Debug/.rcc/qmlcache/appTeam02_DigitalTripBook_ExploreScreen_qml.cpp.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_9_1_for_macOS-Debug/.rcc/qmlcache/appTeam02_DigitalTripBook_HomeScreen_qml.cpp.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_9_1_for_macOS-Debug/.rcc/qmlcache/appTeam02_DigitalTripBook_LoadingScreen_qml.cpp.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_9_1_for_macOS-Debug/.rcc/qmlcache/appTeam02_DigitalTripBook_Main_qml.cpp.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_9_1_for_macOS-Debug/.rcc/qmlcache/appTeam02_DigitalTripBook_MyTripsScreen_qml.cpp.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_9_1_for_macOS-Debug/.rcc/qmlcache/appTeam02_DigitalTripBook_StatisticsScreen_qml.cpp.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_9_1_for_macOS-Debug/.rcc/qmlcache/appTeam02_DigitalTripBook_TripBookingScreen_qml.cpp.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_9_1_for_macOS-Debug/.rcc/qmlcache/appTeam02_DigitalTripBook_TripDetailsScreen_qml.cpp.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_9_1_for_macOS-Debug/appteam02_digitaltripbook_qmltyperegistrations.cpp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

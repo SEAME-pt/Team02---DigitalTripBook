@@ -1,0 +1,10 @@
+-I
+/Users/luis/Desktop/Team02_DigitalTripBook/build/Qt_6_9_1_for_macOS-Debug
+-I
+/Users/luis/Qt/6.9.1/macos/qml
+--resource
+/Users/luis/Desktop/Team02_DigitalTripBook/build/Qt_6_9_1_for_macOS-Debug/.qt/rcc/qmake_Team02_DigitalTripBook.qrc
+--resource
+/Users/luis/Desktop/Team02_DigitalTripBook/build/Qt_6_9_1_for_macOS-Debug/.qt/rcc/appTeam02_DigitalTripBook_raw_qml_0.qrc
+--module
+Team02_DigitalTripBook

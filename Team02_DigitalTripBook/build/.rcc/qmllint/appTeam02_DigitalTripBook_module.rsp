@@ -1,0 +1,10 @@
+-I
+/Users/luis/Desktop/Team02_DigitalTripBook/build
+-I
+/opt/homebrew/share/qt/qml
+--resource
+/Users/luis/Desktop/Team02_DigitalTripBook/build/.qt/rcc/qmake_Team02_DigitalTripBook.qrc
+--resource
+/Users/luis/Desktop/Team02_DigitalTripBook/build/.qt/rcc/appTeam02_DigitalTripBook_raw_qml_0.qrc
+--module
+Team02_DigitalTripBook

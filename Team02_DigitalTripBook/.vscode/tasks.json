@@ -1,0 +1,25 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build Digital TripBook",
+			"type": "shell",
+			"command": "cmake",
+			"args": [
+				"-B",
+				"build",
+				"-S",
+				".",
+				"&&",
+				"cmake",
+				"--build",
+				"build"
+			],
+			"group": "build",
+			"problemMatcher": [
+				"$gcc"
+			],
+			"isBackground": false
+		}
+	]
+}

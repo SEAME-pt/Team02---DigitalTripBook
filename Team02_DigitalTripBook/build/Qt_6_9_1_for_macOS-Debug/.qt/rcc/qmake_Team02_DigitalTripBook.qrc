@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Team02_DigitalTripBook">
+    <file alias="qmldir">/Users/luis/Desktop/Team02_DigitalTripBook/build/Qt_6_9_1_for_macOS-Debug/Team02_DigitalTripBook/qmldir</file>
+  </qresource>
+</RCC>
+

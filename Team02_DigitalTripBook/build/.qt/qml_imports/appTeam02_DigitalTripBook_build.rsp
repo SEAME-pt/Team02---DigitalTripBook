@@ -1,0 +1,14 @@
+-rootPath
+/Users/luis/Desktop/Team02_DigitalTripBook
+-cmake-output
+-output-file
+/Users/luis/Desktop/Team02_DigitalTripBook/build/.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake
+-importPath
+/Users/luis/Desktop/Team02_DigitalTripBook/build/Team02_DigitalTripBook
+-importPath
+/Users/luis/Desktop/Team02_DigitalTripBook/build
+-importPath
+/opt/homebrew/share/qt/qml
+-qrcFiles
+/Users/luis/Desktop/Team02_DigitalTripBook/build/.qt/rcc/qmake_Team02_DigitalTripBook.qrc
+/Users/luis/Desktop/Team02_DigitalTripBook/build/.qt/rcc/appTeam02_DigitalTripBook_raw_qml_0.qrc

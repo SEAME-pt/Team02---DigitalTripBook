@@ -1,0 +1,16 @@
+--resource
+/Users/luis/Desktop/Team02_DigitalTripBook/build/Qt_6_9_1_for_macOS-Debug/.qt/rcc/qmake_Team02_DigitalTripBook.qrc
+--resource
+/Users/luis/Desktop/Team02_DigitalTripBook/build/Qt_6_9_1_for_macOS-Debug/.qt/rcc/appTeam02_DigitalTripBook_raw_qml_0.qrc
+/qt/qml/Team02_DigitalTripBook/Main.qml
+/qt/qml/Team02_DigitalTripBook/Colors.qml
+/qt/qml/Team02_DigitalTripBook/CustomButton.qml
+/qt/qml/Team02_DigitalTripBook/CustomToolBar.qml
+/qt/qml/Team02_DigitalTripBook/LoadingScreen.qml
+/qt/qml/Team02_DigitalTripBook/HomeScreen.qml
+/qt/qml/Team02_DigitalTripBook/TripBookingScreen.qml
+/qt/qml/Team02_DigitalTripBook/ExploreScreen.qml
+/qt/qml/Team02_DigitalTripBook/MyTripsScreen.qml
+/qt/qml/Team02_DigitalTripBook/TripDetailsScreen.qml
+/qt/qml/Team02_DigitalTripBook/StatisticsScreen.qml
+/qt/qml/Team02_DigitalTripBook/ApplicationFlow.qml

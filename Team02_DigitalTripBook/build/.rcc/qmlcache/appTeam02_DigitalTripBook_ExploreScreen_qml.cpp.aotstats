@@ -1,0 +1,244 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 12,
+                        "durationMicroseconds": 1570,
+                        "errorMessage": "Cannot load property background from Colors::currentTheme with type QVariant.",
+                        "functionName": "color",
+                        "line": 6
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "",
+                        "functionName": "spacing",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 9
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 7,
+                        "errorMessage": "Cannot load property textColor from Colors::currentTheme with type QVariant.",
+                        "functionName": "color",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 5,
+                        "errorMessage": "Cannot load property caption from Colors::currentTheme with type QVariant.",
+                        "functionName": "color",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 17,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 18,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 18,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 5,
+                        "errorMessage": "Cannot load property textColor from Colors::currentTheme with type QVariant.",
+                        "functionName": "color",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 18,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 4,
+                        "errorMessage": "Cannot load property caption from Colors::currentTheme with type QVariant.",
+                        "functionName": "color",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 5,
+                        "errorMessage": "Cannot load property caption from Colors::currentTheme with type QVariant.",
+                        "functionName": "color",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 5,
+                        "errorMessage": "Cannot load property caption from Colors::currentTheme with type QVariant.",
+                        "functionName": "color",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 4,
+                        "errorMessage": "Cannot load property caption from Colors::currentTheme with type QVariant.",
+                        "functionName": "color",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 74
+                    }
+                ],
+                "filepath": "/Users/luis/Desktop/Team02_DigitalTripBook/ExploreScreen.qml"
+            }
+        ],
+        "moduleId": "Team02_DigitalTripBook(appTeam02_DigitalTripBook)"
+    }
+]
