@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 62,
+                        "durationMicroseconds": 66,
                         "errorMessage": "",
                         "functionName": "stats",
                         "line": 7
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 16,
-                        "durationMicroseconds": 73,
+                        "durationMicroseconds": 75,
                         "errorMessage": "Cannot access value for name Colors",
                         "functionName": "color",
                         "line": 10
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 24,
-                        "durationMicroseconds": 1698,
+                        "durationMicroseconds": 1614,
                         "errorMessage": "Cannot load property primary from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 30
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 48,
+                        "durationMicroseconds": 40,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 29
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 43,
-                        "durationMicroseconds": 33,
+                        "durationMicroseconds": 34,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 31
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 24,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 35
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 25,
+                        "durationMicroseconds": 26,
                         "errorMessage": "",
                         "functionName": "gradient",
                         "line": 37
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 20,
+                        "durationMicroseconds": 21,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 54
@@ -182,7 +182,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 59,
-                        "durationMicroseconds": 23,
+                        "durationMicroseconds": 24,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 83
@@ -190,7 +190,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 24,
-                        "durationMicroseconds": 20,
+                        "durationMicroseconds": 21,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 92
@@ -198,7 +198,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 28,
-                        "durationMicroseconds": 4,
+                        "durationMicroseconds": 5,
                         "errorMessage": "Cannot load property secondary from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 99
@@ -214,7 +214,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 20,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 103
@@ -230,7 +230,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 39,
-                        "durationMicroseconds": 5,
+                        "durationMicroseconds": 4,
                         "errorMessage": "Cannot load property borderColor from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 113
@@ -262,7 +262,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 59,
-                        "durationMicroseconds": 28,
+                        "durationMicroseconds": 24,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 126
@@ -302,7 +302,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 47,
-                        "durationMicroseconds": 15,
+                        "durationMicroseconds": 14,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 147
@@ -326,7 +326,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 59,
-                        "durationMicroseconds": 23,
+                        "durationMicroseconds": 24,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 155
@@ -334,7 +334,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 40,
-                        "durationMicroseconds": 4,
+                        "durationMicroseconds": 5,
                         "errorMessage": "Cannot load property caption from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 160
@@ -342,7 +342,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 59,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 23,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 161
@@ -374,7 +374,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 39,
-                        "durationMicroseconds": 16,
+                        "durationMicroseconds": 13,
                         "errorMessage": "Cannot retrieve a non-object type by ID: statisticsScreen",
                         "functionName": "text",
                         "line": 180
@@ -382,7 +382,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 46,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 18,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 182
@@ -390,7 +390,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 59,
-                        "durationMicroseconds": 23,
+                        "durationMicroseconds": 24,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 184
@@ -398,7 +398,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 40,
-                        "durationMicroseconds": 4,
+                        "durationMicroseconds": 5,
                         "errorMessage": "Cannot load property caption from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 189
@@ -406,7 +406,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 59,
-                        "durationMicroseconds": 23,
+                        "durationMicroseconds": 24,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 190
@@ -422,7 +422,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 28,
-                        "durationMicroseconds": 4,
+                        "durationMicroseconds": 5,
                         "errorMessage": "Cannot load property secondary from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 206
@@ -446,7 +446,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 4,
+                        "durationMicroseconds": 5,
                         "errorMessage": "Cannot load property cardColor from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 219
@@ -462,7 +462,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 47,
-                        "durationMicroseconds": 15,
+                        "durationMicroseconds": 16,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 225
@@ -470,7 +470,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 39,
-                        "durationMicroseconds": 16,
+                        "durationMicroseconds": 15,
                         "errorMessage": "Cannot retrieve a non-object type by ID: statisticsScreen",
                         "functionName": "text",
                         "line": 229
@@ -478,7 +478,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 40,
-                        "durationMicroseconds": 25,
+                        "durationMicroseconds": 27,
                         "errorMessage": "",
                         "functionName": "color",
                         "line": 232
@@ -486,7 +486,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 46,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 20,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 231
@@ -494,7 +494,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 59,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 233
@@ -502,7 +502,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 40,
-                        "durationMicroseconds": 4,
+                        "durationMicroseconds": 5,
                         "errorMessage": "Cannot load property caption from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 238
@@ -510,7 +510,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 59,
-                        "durationMicroseconds": 23,
+                        "durationMicroseconds": 24,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 239
@@ -518,7 +518,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 5,
+                        "durationMicroseconds": 4,
                         "errorMessage": "Cannot load property cardColor from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 248
@@ -526,7 +526,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 39,
-                        "durationMicroseconds": 4,
+                        "durationMicroseconds": 5,
                         "errorMessage": "Cannot load property borderColor from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 249
@@ -534,7 +534,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 47,
-                        "durationMicroseconds": 15,
+                        "durationMicroseconds": 19,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 254
@@ -542,7 +542,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 39,
-                        "durationMicroseconds": 12,
+                        "durationMicroseconds": 23,
                         "errorMessage": "Cannot retrieve a non-object type by ID: statisticsScreen",
                         "functionName": "text",
                         "line": 258
@@ -550,7 +550,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 46,
-                        "durationMicroseconds": 22,
+                        "durationMicroseconds": 28,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 260
@@ -558,7 +558,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 59,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 33,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 262
@@ -566,7 +566,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 40,
-                        "durationMicroseconds": 4,
+                        "durationMicroseconds": 7,
                         "errorMessage": "Cannot load property caption from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 267
@@ -574,7 +574,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 59,
-                        "durationMicroseconds": 23,
+                        "durationMicroseconds": 28,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 268
@@ -582,7 +582,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 4,
+                        "durationMicroseconds": 6,
                         "errorMessage": "Cannot load property cardColor from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 277
@@ -598,7 +598,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 47,
-                        "durationMicroseconds": 13,
+                        "durationMicroseconds": 18,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 283
@@ -606,7 +606,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 39,
-                        "durationMicroseconds": 29,
+                        "durationMicroseconds": 44,
                         "errorMessage": "Cannot retrieve a non-object type by ID: statisticsScreen",
                         "functionName": "text",
                         "line": 287
@@ -614,7 +614,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 46,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 36,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 289
@@ -622,7 +622,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 59,
-                        "durationMicroseconds": 23,
+                        "durationMicroseconds": 38,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 291
@@ -630,7 +630,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 40,
-                        "durationMicroseconds": 5,
+                        "durationMicroseconds": 7,
                         "errorMessage": "Cannot load property caption from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 296
@@ -638,7 +638,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 59,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 28,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 297
@@ -646,7 +646,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 4,
+                        "durationMicroseconds": 5,
                         "errorMessage": "Cannot load property cardColor from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 306
@@ -662,7 +662,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 47,
-                        "durationMicroseconds": 14,
+                        "durationMicroseconds": 18,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 312
@@ -670,7 +670,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 39,
-                        "durationMicroseconds": 12,
+                        "durationMicroseconds": 15,
                         "errorMessage": "Cannot retrieve a non-object type by ID: statisticsScreen",
                         "functionName": "text",
                         "line": 316
@@ -678,7 +678,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 46,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 23,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 318
@@ -686,7 +686,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 59,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 26,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 320
@@ -694,7 +694,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 40,
-                        "durationMicroseconds": 4,
+                        "durationMicroseconds": 5,
                         "errorMessage": "Cannot load property caption from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 325
@@ -702,7 +702,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 59,
-                        "durationMicroseconds": 22,
+                        "durationMicroseconds": 24,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 326
@@ -710,7 +710,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 24,
-                        "durationMicroseconds": 27,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 335
@@ -718,7 +718,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 28,
-                        "durationMicroseconds": 4,
+                        "durationMicroseconds": 5,
                         "errorMessage": "Cannot load property secondary from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 342
@@ -726,7 +726,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 34,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 20,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 341
@@ -734,7 +734,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 20,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 346
@@ -758,7 +758,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 39,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 355
@@ -766,7 +766,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 40,
-                        "durationMicroseconds": 23,
+                        "durationMicroseconds": 22,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 356
@@ -782,7 +782,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 36,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 20,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 362
@@ -790,7 +790,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 35,
-                        "durationMicroseconds": 14,
+                        "durationMicroseconds": 16,
                         "errorMessage": "Cannot retrieve a non-object type by ID: statisticsScreen",
                         "functionName": "text",
                         "line": 363
@@ -798,7 +798,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 36,
-                        "durationMicroseconds": 5,
+                        "durationMicroseconds": 4,
                         "errorMessage": "Cannot load property textColor from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 365
@@ -806,7 +806,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 39,
-                        "durationMicroseconds": 20,
+                        "durationMicroseconds": 22,
                         "errorMessage": "",
                         "functionName": "wrapMode",
                         "line": 366
@@ -814,7 +814,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 36,
-                        "durationMicroseconds": 21,
+                        "durationMicroseconds": 20,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 370
@@ -830,7 +830,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 36,
-                        "durationMicroseconds": 4,
+                        "durationMicroseconds": 6,
                         "errorMessage": "Cannot load property textColor from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 373
@@ -846,7 +846,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 36,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 20,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 378
@@ -870,13 +870,13 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 39,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 20,
                         "errorMessage": "",
                         "functionName": "wrapMode",
                         "line": 382
                     }
                 ],
-                "filepath": "/Users/luis/Desktop/Team02_DigitalTripBook/StatisticsScreen.qml"
+                "filepath": "/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/StatisticsScreen.qml"
             }
         ],
         "moduleId": "Team02_DigitalTripBook(appTeam02_DigitalTripBook)"

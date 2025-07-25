@@ -1,5 +1,5 @@
 CMakeFiles/appTeam02_DigitalTripBook.dir/build/.rcc/qmlcache/appTeam02_DigitalTripBook_ApplicationFlow_qml.cpp.o: \
-  /Users/luis/Desktop/Team02_DigitalTripBook/build/.rcc/qmlcache/appTeam02_DigitalTripBook_ApplicationFlow_qml.cpp \
+  /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/.rcc/qmlcache/appTeam02_DigitalTripBook_ApplicationFlow_qml.cpp \
   /opt/homebrew/include/QtQml/qqmlprivate.h \
   /opt/homebrew/include/QtQml/qjsprimitivevalue.h \
   /opt/homebrew/include/QtQml/qtqmlglobal.h \

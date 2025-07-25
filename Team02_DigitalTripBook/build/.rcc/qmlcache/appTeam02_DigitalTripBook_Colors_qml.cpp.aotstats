@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 32,
-                        "durationMicroseconds": 88,
+                        "durationMicroseconds": 85,
                         "errorMessage": "",
                         "functionName": "currentTheme",
                         "line": 106
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 46,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 22,
                         "errorMessage": "Cannot access value for name currentTheme",
                         "functionName": "color",
                         "line": 51
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 46,
-                        "durationMicroseconds": 9,
+                        "durationMicroseconds": 8,
                         "errorMessage": "Cannot access value for name currentTheme",
                         "functionName": "color",
                         "line": 58
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 20,
-                        "durationMicroseconds": 7,
+                        "durationMicroseconds": 8,
                         "errorMessage": "Cannot access value for name currentTheme",
                         "functionName": "color",
                         "line": 77
@@ -44,7 +44,7 @@
                         "line": 97
                     }
                 ],
-                "filepath": "/Users/luis/Desktop/Team02_DigitalTripBook/Colors.qml"
+                "filepath": "/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/Colors.qml"
             }
         ],
         "moduleId": "Team02_DigitalTripBook(appTeam02_DigitalTripBook)"

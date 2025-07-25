@@ -1,7 +1,7 @@
 CMakeFiles/appTeam02_DigitalTripBook.dir/appTeam02_DigitalTripBook_autogen/mocs_compilation.cpp.o: \
-  /Users/luis/Desktop/Team02_DigitalTripBook/build/appTeam02_DigitalTripBook_autogen/mocs_compilation.cpp \
-  /Users/luis/Desktop/Team02_DigitalTripBook/build/appTeam02_DigitalTripBook_autogen/EWIEGA46WW/moc_influxdbclient.cpp \
-  /Users/luis/Desktop/Team02_DigitalTripBook/build/appTeam02_DigitalTripBook_autogen/EWIEGA46WW/../../../influxdbclient.h \
+  /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/appTeam02_DigitalTripBook_autogen/mocs_compilation.cpp \
+  /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/appTeam02_DigitalTripBook_autogen/EWIEGA46WW/moc_influxdbclient.cpp \
+  /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/appTeam02_DigitalTripBook_autogen/EWIEGA46WW/../../../influxdbclient.h \
   /opt/homebrew/lib/QtCore.framework/Headers/QObject \
   /opt/homebrew/lib/QtCore.framework/Headers/qobject.h \
   /opt/homebrew/include/QtCore/qobjectdefs.h \

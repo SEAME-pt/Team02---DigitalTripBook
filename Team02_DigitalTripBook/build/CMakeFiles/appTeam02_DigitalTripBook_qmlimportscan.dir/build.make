@@ -53,10 +53,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/luis/Desktop/Team02_DigitalTripBook
+CMAKE_SOURCE_DIR = /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/luis/Desktop/Team02_DigitalTripBook/build
+CMAKE_BINARY_DIR = /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build
 
 # Utility rule file for appTeam02_DigitalTripBook_qmlimportscan.
 
@@ -71,20 +71,20 @@ CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan: .qt/qml_imports/appTeam02_Di
 .qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /opt/homebrew/share/qt/libexec/qmlimportscanner
 .qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: .qt/rcc/qmake_Team02_DigitalTripBook.qrc
 .qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: .qt/rcc/appTeam02_DigitalTripBook_raw_qml_0.qrc
-.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /Users/luis/Desktop/Team02_DigitalTripBook/Main.qml
-.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /Users/luis/Desktop/Team02_DigitalTripBook/Colors.qml
-.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /Users/luis/Desktop/Team02_DigitalTripBook/CustomButton.qml
-.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /Users/luis/Desktop/Team02_DigitalTripBook/CustomToolBar.qml
-.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /Users/luis/Desktop/Team02_DigitalTripBook/LoadingScreen.qml
-.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /Users/luis/Desktop/Team02_DigitalTripBook/HomeScreen.qml
-.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /Users/luis/Desktop/Team02_DigitalTripBook/TripBookingScreen.qml
-.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /Users/luis/Desktop/Team02_DigitalTripBook/ExploreScreen.qml
-.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /Users/luis/Desktop/Team02_DigitalTripBook/MyTripsScreen.qml
-.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /Users/luis/Desktop/Team02_DigitalTripBook/TripDetailsScreen.qml
-.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /Users/luis/Desktop/Team02_DigitalTripBook/StatisticsScreen.qml
-.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /Users/luis/Desktop/Team02_DigitalTripBook/ApplicationFlow.qml
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Running qmlimportscanner for appTeam02_DigitalTripBook"
-	cd /Users/luis/Desktop/Team02_DigitalTripBook && /opt/homebrew/share/qt/libexec/qmlimportscanner @/Users/luis/Desktop/Team02_DigitalTripBook/build/.qt/qml_imports/appTeam02_DigitalTripBook_build.rsp
+.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/Main.qml
+.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/Colors.qml
+.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/CustomButton.qml
+.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/CustomToolBar.qml
+.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/LoadingScreen.qml
+.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/HomeScreen.qml
+.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/TripBookingScreen.qml
+.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/ExploreScreen.qml
+.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/MyTripsScreen.qml
+.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/TripDetailsScreen.qml
+.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/StatisticsScreen.qml
+.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/ApplicationFlow.qml
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Running qmlimportscanner for appTeam02_DigitalTripBook"
+	cd /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook && /opt/homebrew/share/qt/libexec/qmlimportscanner @/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/.qt/qml_imports/appTeam02_DigitalTripBook_build.rsp
 
 CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan.dir/codegen:
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan.dir/codegen
@@ -103,6 +103,6 @@ CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan.dir/clean:
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan.dir/clean
 
 CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan.dir/depend:
-	cd /Users/luis/Desktop/Team02_DigitalTripBook/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/luis/Desktop/Team02_DigitalTripBook /Users/luis/Desktop/Team02_DigitalTripBook /Users/luis/Desktop/Team02_DigitalTripBook/build /Users/luis/Desktop/Team02_DigitalTripBook/build /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan.dir/depend
 

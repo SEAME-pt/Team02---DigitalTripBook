@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 16,
-                        "durationMicroseconds": 97,
+                        "durationMicroseconds": 127,
                         "errorMessage": "Cannot access value for name Colors",
                         "functionName": "color",
                         "line": 10
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 58,
+                        "durationMicroseconds": 75,
                         "errorMessage": "",
                         "functionName": "contentWidth",
                         "line": 19
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 25,
+                        "durationMicroseconds": 30,
                         "errorMessage": "",
                         "functionName": "contentHeight",
                         "line": 20
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 23,
+                        "durationMicroseconds": 28,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 18
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 24,
-                        "durationMicroseconds": 41,
+                        "durationMicroseconds": 48,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 24
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 43,
-                        "durationMicroseconds": 28,
+                        "durationMicroseconds": 31,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 25
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 24,
-                        "durationMicroseconds": 2234,
+                        "durationMicroseconds": 2176,
                         "errorMessage": "Cannot load property primary from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 33
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 39,
-                        "durationMicroseconds": 20,
+                        "durationMicroseconds": 18,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 37
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 34,
-                        "durationMicroseconds": 31,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 40
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 14,
                         "errorMessage": "Cannot retrieve a non-object type by ID: tripDetailsScreen",
                         "functionName": "onClicked",
                         "line": 45
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 35,
-                        "durationMicroseconds": 23,
+                        "durationMicroseconds": 16,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 44
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 23,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 20,
                         "errorMessage": "Cannot retrieve a non-object type by ID: tripDetailsScreen",
                         "functionName": "text",
                         "line": 50
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 24,
-                        "durationMicroseconds": 5,
+                        "durationMicroseconds": 6,
                         "errorMessage": "Cannot load property primary from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 53
@@ -134,7 +134,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 20,
+                        "durationMicroseconds": 21,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 52
@@ -142,7 +142,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 24,
-                        "durationMicroseconds": 21,
+                        "durationMicroseconds": 22,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 57
@@ -150,7 +150,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "gradient",
                         "line": 59
@@ -158,7 +158,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 24,
-                        "durationMicroseconds": 25,
+                        "durationMicroseconds": 20,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 65
@@ -190,7 +190,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 38,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 18,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 81
@@ -214,7 +214,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 4,
+                        "durationMicroseconds": 5,
                         "errorMessage": "Cannot load property textColor from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 99
@@ -222,7 +222,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 38,
-                        "durationMicroseconds": 18,
+                        "durationMicroseconds": 19,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 98
@@ -230,7 +230,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 31,
-                        "durationMicroseconds": 26,
+                        "durationMicroseconds": 27,
                         "errorMessage": "Cannot retrieve a non-object type by ID: tripDetailsScreen",
                         "functionName": "text",
                         "line": 103
@@ -246,7 +246,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 4,
+                        "durationMicroseconds": 5,
                         "errorMessage": "Cannot load property textColor from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 116
@@ -262,7 +262,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 31,
-                        "durationMicroseconds": 25,
+                        "durationMicroseconds": 26,
                         "errorMessage": "Cannot retrieve a non-object type by ID: tripDetailsScreen",
                         "functionName": "text",
                         "line": 120
@@ -270,7 +270,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 4,
+                        "durationMicroseconds": 5,
                         "errorMessage": "Cannot load property caption from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 122
@@ -310,7 +310,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 38,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 18,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 145
@@ -318,7 +318,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 31,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 23,
                         "errorMessage": "Cannot retrieve a non-object type by ID: tripDetailsScreen",
                         "functionName": "text",
                         "line": 150
@@ -334,7 +334,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 6,
+                        "durationMicroseconds": 5,
                         "errorMessage": "Cannot load property textColor from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 163
@@ -350,7 +350,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 31,
-                        "durationMicroseconds": 21,
+                        "durationMicroseconds": 22,
                         "errorMessage": "Cannot retrieve a non-object type by ID: tripDetailsScreen",
                         "functionName": "text",
                         "line": 167
@@ -358,7 +358,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 6,
+                        "durationMicroseconds": 4,
                         "errorMessage": "Cannot load property caption from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 169
@@ -374,7 +374,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 38,
-                        "durationMicroseconds": 21,
+                        "durationMicroseconds": 18,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 179
@@ -382,7 +382,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 31,
-                        "durationMicroseconds": 20,
+                        "durationMicroseconds": 21,
                         "errorMessage": "Cannot retrieve a non-object type by ID: tripDetailsScreen",
                         "functionName": "text",
                         "line": 184
@@ -398,7 +398,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 24,
-                        "durationMicroseconds": 21,
+                        "durationMicroseconds": 24,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 193
@@ -422,7 +422,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 5,
+                        "durationMicroseconds": 4,
                         "errorMessage": "Cannot load property textColor from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 210
@@ -430,7 +430,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 38,
-                        "durationMicroseconds": 17,
+                        "durationMicroseconds": 18,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 209
@@ -438,7 +438,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 31,
-                        "durationMicroseconds": 20,
+                        "durationMicroseconds": 21,
                         "errorMessage": "Cannot retrieve a non-object type by ID: tripDetailsScreen",
                         "functionName": "text",
                         "line": 214
@@ -446,7 +446,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 32,
-                        "durationMicroseconds": 33,
+                        "durationMicroseconds": 26,
                         "errorMessage": "",
                         "functionName": "color",
                         "line": 216
@@ -454,7 +454,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 6,
+                        "durationMicroseconds": 5,
                         "errorMessage": "Cannot load property textColor from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 227
@@ -462,7 +462,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 38,
-                        "durationMicroseconds": 21,
+                        "durationMicroseconds": 18,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 226
@@ -470,7 +470,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 31,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 22,
                         "errorMessage": "Cannot retrieve a non-object type by ID: tripDetailsScreen",
                         "functionName": "text",
                         "line": 231
@@ -502,7 +502,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 31,
-                        "durationMicroseconds": 37,
+                        "durationMicroseconds": 35,
                         "errorMessage": "Cannot retrieve a non-object type by ID: tripDetailsScreen",
                         "functionName": "text",
                         "line": 248
@@ -518,7 +518,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 38,
-                        "durationMicroseconds": 21,
+                        "durationMicroseconds": 19,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 260
@@ -526,7 +526,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 31,
-                        "durationMicroseconds": 22,
+                        "durationMicroseconds": 21,
                         "errorMessage": "Cannot retrieve a non-object type by ID: tripDetailsScreen",
                         "functionName": "text",
                         "line": 265
@@ -534,7 +534,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 5,
+                        "durationMicroseconds": 4,
                         "errorMessage": "Cannot load property caption from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 267
@@ -542,7 +542,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 5,
+                        "durationMicroseconds": 4,
                         "errorMessage": "Cannot load property textColor from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 278
@@ -550,7 +550,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 38,
-                        "durationMicroseconds": 20,
+                        "durationMicroseconds": 19,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 277
@@ -558,7 +558,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 31,
-                        "durationMicroseconds": 25,
+                        "durationMicroseconds": 21,
                         "errorMessage": "Cannot retrieve a non-object type by ID: tripDetailsScreen",
                         "functionName": "text",
                         "line": 282
@@ -566,7 +566,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 5,
+                        "durationMicroseconds": 4,
                         "errorMessage": "Cannot load property caption from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 284
@@ -574,7 +574,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 24,
-                        "durationMicroseconds": 23,
+                        "durationMicroseconds": 22,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 291
@@ -590,7 +590,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 34,
-                        "durationMicroseconds": 18,
+                        "durationMicroseconds": 19,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 297
@@ -598,7 +598,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 21,
+                        "durationMicroseconds": 22,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 302
@@ -614,7 +614,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 28,
-                        "durationMicroseconds": 4,
+                        "durationMicroseconds": 5,
                         "errorMessage": "Cannot load property background from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 304
@@ -630,7 +630,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 31,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 25,
                         "errorMessage": "Cannot retrieve a non-object type by ID: tripDetailsScreen",
                         "functionName": "text",
                         "line": 315
@@ -646,7 +646,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 35,
-                        "durationMicroseconds": 21,
+                        "durationMicroseconds": 22,
                         "errorMessage": "",
                         "functionName": "wrapMode",
                         "line": 318
@@ -654,7 +654,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 44,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 20,
                         "errorMessage": "",
                         "functionName": "verticalAlignment",
                         "line": 321
@@ -662,7 +662,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 39,
-                        "durationMicroseconds": 27,
+                        "durationMicroseconds": 28,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 311
@@ -670,7 +670,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 40,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 312
@@ -678,7 +678,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 38,
-                        "durationMicroseconds": 22,
+                        "durationMicroseconds": 24,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 313
@@ -686,13 +686,13 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 38,
-                        "durationMicroseconds": 15,
+                        "durationMicroseconds": 14,
                         "errorMessage": "Cannot retrieve a non-object type by ID: tripDetailsScreen",
                         "functionName": "italic",
                         "line": 319
                     }
                 ],
-                "filepath": "/Users/luis/Desktop/Team02_DigitalTripBook/TripDetailsScreen.qml"
+                "filepath": "/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/TripDetailsScreen.qml"
             }
         ],
         "moduleId": "Team02_DigitalTripBook(appTeam02_DigitalTripBook)"

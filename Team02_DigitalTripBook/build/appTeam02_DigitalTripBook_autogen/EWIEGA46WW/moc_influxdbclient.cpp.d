@@ -1,5 +1,5 @@
-/Users/luis/Desktop/Team02_DigitalTripBook/build/appTeam02_DigitalTripBook_autogen/EWIEGA46WW/moc_influxdbclient.cpp: /Users/luis/Desktop/Team02_DigitalTripBook/influxdbclient.h \
-  /Users/luis/Desktop/Team02_DigitalTripBook/build/appTeam02_DigitalTripBook_autogen/moc_predefs.h \
+/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/appTeam02_DigitalTripBook_autogen/EWIEGA46WW/moc_influxdbclient.cpp: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/influxdbclient.h \
+  /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/appTeam02_DigitalTripBook_autogen/moc_predefs.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternal.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternalLegacy.h \

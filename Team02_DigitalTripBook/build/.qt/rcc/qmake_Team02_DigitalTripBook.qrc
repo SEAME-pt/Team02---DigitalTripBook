@@ -1,6 +1,6 @@
 <RCC>
   <qresource prefix="/qt/qml/Team02_DigitalTripBook">
-    <file alias="qmldir">/Users/luis/Desktop/Team02_DigitalTripBook/build/Team02_DigitalTripBook/qmldir</file>
+    <file alias="qmldir">/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/Team02_DigitalTripBook/qmldir</file>
   </qresource>
 </RCC>
 

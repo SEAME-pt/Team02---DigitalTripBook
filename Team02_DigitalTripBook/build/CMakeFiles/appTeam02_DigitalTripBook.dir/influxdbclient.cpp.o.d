@@ -1,6 +1,6 @@
 CMakeFiles/appTeam02_DigitalTripBook.dir/influxdbclient.cpp.o: \
-  /Users/luis/Desktop/Team02_DigitalTripBook/influxdbclient.cpp \
-  /Users/luis/Desktop/Team02_DigitalTripBook/influxdbclient.h \
+  /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/influxdbclient.cpp \
+  /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/influxdbclient.h \
   /opt/homebrew/lib/QtCore.framework/Headers/QObject \
   /opt/homebrew/lib/QtCore.framework/Headers/qobject.h \
   /opt/homebrew/include/QtCore/qobjectdefs.h \

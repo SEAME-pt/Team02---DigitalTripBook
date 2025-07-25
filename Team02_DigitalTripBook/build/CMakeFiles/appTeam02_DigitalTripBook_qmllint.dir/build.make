@@ -53,10 +53,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/luis/Desktop/Team02_DigitalTripBook
+CMAKE_SOURCE_DIR = /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/luis/Desktop/Team02_DigitalTripBook/build
+CMAKE_BINARY_DIR = /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build
 
 # Utility rule file for appTeam02_DigitalTripBook_qmllint.
 
@@ -67,20 +67,20 @@ include CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/compiler_depend.make
 include CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/progress.make
 
 CMakeFiles/appTeam02_DigitalTripBook_qmllint: /opt/homebrew/bin/qmllint
-CMakeFiles/appTeam02_DigitalTripBook_qmllint: /Users/luis/Desktop/Team02_DigitalTripBook/Main.qml
-CMakeFiles/appTeam02_DigitalTripBook_qmllint: /Users/luis/Desktop/Team02_DigitalTripBook/Colors.qml
-CMakeFiles/appTeam02_DigitalTripBook_qmllint: /Users/luis/Desktop/Team02_DigitalTripBook/CustomButton.qml
-CMakeFiles/appTeam02_DigitalTripBook_qmllint: /Users/luis/Desktop/Team02_DigitalTripBook/CustomToolBar.qml
-CMakeFiles/appTeam02_DigitalTripBook_qmllint: /Users/luis/Desktop/Team02_DigitalTripBook/LoadingScreen.qml
-CMakeFiles/appTeam02_DigitalTripBook_qmllint: /Users/luis/Desktop/Team02_DigitalTripBook/HomeScreen.qml
-CMakeFiles/appTeam02_DigitalTripBook_qmllint: /Users/luis/Desktop/Team02_DigitalTripBook/TripBookingScreen.qml
-CMakeFiles/appTeam02_DigitalTripBook_qmllint: /Users/luis/Desktop/Team02_DigitalTripBook/ExploreScreen.qml
-CMakeFiles/appTeam02_DigitalTripBook_qmllint: /Users/luis/Desktop/Team02_DigitalTripBook/MyTripsScreen.qml
-CMakeFiles/appTeam02_DigitalTripBook_qmllint: /Users/luis/Desktop/Team02_DigitalTripBook/TripDetailsScreen.qml
-CMakeFiles/appTeam02_DigitalTripBook_qmllint: /Users/luis/Desktop/Team02_DigitalTripBook/StatisticsScreen.qml
-CMakeFiles/appTeam02_DigitalTripBook_qmllint: /Users/luis/Desktop/Team02_DigitalTripBook/ApplicationFlow.qml
+CMakeFiles/appTeam02_DigitalTripBook_qmllint: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/Main.qml
+CMakeFiles/appTeam02_DigitalTripBook_qmllint: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/Colors.qml
+CMakeFiles/appTeam02_DigitalTripBook_qmllint: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/CustomButton.qml
+CMakeFiles/appTeam02_DigitalTripBook_qmllint: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/CustomToolBar.qml
+CMakeFiles/appTeam02_DigitalTripBook_qmllint: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/LoadingScreen.qml
+CMakeFiles/appTeam02_DigitalTripBook_qmllint: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/HomeScreen.qml
+CMakeFiles/appTeam02_DigitalTripBook_qmllint: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/TripBookingScreen.qml
+CMakeFiles/appTeam02_DigitalTripBook_qmllint: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/ExploreScreen.qml
+CMakeFiles/appTeam02_DigitalTripBook_qmllint: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/MyTripsScreen.qml
+CMakeFiles/appTeam02_DigitalTripBook_qmllint: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/TripDetailsScreen.qml
+CMakeFiles/appTeam02_DigitalTripBook_qmllint: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/StatisticsScreen.qml
+CMakeFiles/appTeam02_DigitalTripBook_qmllint: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/ApplicationFlow.qml
 CMakeFiles/appTeam02_DigitalTripBook_qmllint: .rcc/qmllint/appTeam02_DigitalTripBook.rsp
-	cd /Users/luis/Desktop/Team02_DigitalTripBook && /opt/homebrew/bin/qmllint @/Users/luis/Desktop/Team02_DigitalTripBook/build/.rcc/qmllint/appTeam02_DigitalTripBook.rsp
+	cd /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook && /opt/homebrew/bin/qmllint @/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/.rcc/qmllint/appTeam02_DigitalTripBook.rsp
 
 CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/codegen:
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/codegen
@@ -98,6 +98,6 @@ CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/clean:
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/clean
 
 CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/depend:
-	cd /Users/luis/Desktop/Team02_DigitalTripBook/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/luis/Desktop/Team02_DigitalTripBook /Users/luis/Desktop/Team02_DigitalTripBook /Users/luis/Desktop/Team02_DigitalTripBook/build /Users/luis/Desktop/Team02_DigitalTripBook/build /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/depend
 

@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 26,
-                        "durationMicroseconds": 34,
+                        "durationMicroseconds": 36,
                         "errorMessage": "Cannot access value for name Easing",
                         "functionName": "type",
                         "line": 24
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 19,
-                        "durationMicroseconds": 143,
+                        "durationMicroseconds": 142,
                         "errorMessage": "Cannot access value for name button",
                         "functionName": "gradient",
                         "line": 34
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 23,
-                        "durationMicroseconds": 56,
+                        "durationMicroseconds": 55,
                         "errorMessage": "Cannot access value for name Colors",
                         "functionName": "color",
                         "line": 31
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 23,
-                        "durationMicroseconds": 2,
+                        "durationMicroseconds": 3,
                         "errorMessage": "Cannot access value for name parent",
                         "functionName": "fill",
                         "line": 33
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 39,
-                        "durationMicroseconds": 5,
+                        "durationMicroseconds": 4,
                         "errorMessage": "Cannot access value for name parent",
                         "functionName": "horizontalCenter",
                         "line": 37
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 24,
-                        "durationMicroseconds": 105,
+                        "durationMicroseconds": 107,
                         "errorMessage": "Cannot access value for name Colors",
                         "functionName": "color",
                         "line": 43
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 30,
-                        "durationMicroseconds": 80,
+                        "durationMicroseconds": 77,
                         "errorMessage": "Cannot access value for name Font",
                         "functionName": "weight",
                         "line": 45
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 26,
-                        "durationMicroseconds": 8,
+                        "durationMicroseconds": 6,
                         "errorMessage": "Cannot access value for name button",
                         "functionName": "visible",
                         "line": 51
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 24,
-                        "durationMicroseconds": 106,
+                        "durationMicroseconds": 90,
                         "errorMessage": "Cannot access value for name Colors",
                         "functionName": "color",
                         "line": 53
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 30,
-                        "durationMicroseconds": 72,
+                        "durationMicroseconds": 73,
                         "errorMessage": "Cannot access value for name Font",
                         "functionName": "weight",
                         "line": 55
@@ -132,7 +132,7 @@
                         "line": 56
                     }
                 ],
-                "filepath": "/Users/luis/Desktop/Team02_DigitalTripBook/CustomButton.qml"
+                "filepath": "/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/CustomButton.qml"
             }
         ],
         "moduleId": "Team02_DigitalTripBook(appTeam02_DigitalTripBook)"

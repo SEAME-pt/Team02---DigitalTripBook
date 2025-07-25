@@ -53,10 +53,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/luis/Desktop/Team02_DigitalTripBook
+CMAKE_SOURCE_DIR = /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/luis/Desktop/Team02_DigitalTripBook/build
+CMAKE_BINARY_DIR = /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build
 
 # Utility rule file for appTeam02_DigitalTripBook_autogen.
 
@@ -70,9 +70,9 @@ CMakeFiles/appTeam02_DigitalTripBook_autogen: appTeam02_DigitalTripBook_autogen/
 
 appTeam02_DigitalTripBook_autogen/timestamp: /opt/homebrew/share/qt/libexec/moc
 appTeam02_DigitalTripBook_autogen/timestamp: CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target appTeam02_DigitalTripBook"
-	/opt/homebrew/bin/cmake -E cmake_autogen /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/AutogenInfo.json ""
-	/opt/homebrew/bin/cmake -E touch /Users/luis/Desktop/Team02_DigitalTripBook/build/appTeam02_DigitalTripBook_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target appTeam02_DigitalTripBook"
+	/opt/homebrew/bin/cmake -E cmake_autogen /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/AutogenInfo.json ""
+	/opt/homebrew/bin/cmake -E touch /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/appTeam02_DigitalTripBook_autogen/timestamp
 
 CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/codegen:
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/codegen
@@ -91,6 +91,6 @@ CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/clean:
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/clean
 
 CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/depend:
-	cd /Users/luis/Desktop/Team02_DigitalTripBook/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/luis/Desktop/Team02_DigitalTripBook /Users/luis/Desktop/Team02_DigitalTripBook /Users/luis/Desktop/Team02_DigitalTripBook/build /Users/luis/Desktop/Team02_DigitalTripBook/build /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/depend
 

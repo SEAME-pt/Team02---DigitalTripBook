@@ -53,10 +53,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/luis/Desktop/Team02_DigitalTripBook
+CMAKE_SOURCE_DIR = /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/luis/Desktop/Team02_DigitalTripBook/build
+CMAKE_BINARY_DIR = /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build
 
 # Utility rule file for all_aotstats.
 
@@ -67,12 +67,12 @@ include CMakeFiles/all_aotstats.dir/compiler_depend.make
 include CMakeFiles/all_aotstats.dir/progress.make
 
 CMakeFiles/all_aotstats: .rcc/qmlcache/all_aotstats.txt
-	/opt/homebrew/bin/cmake -E cat /Users/luis/Desktop/Team02_DigitalTripBook/build/.rcc/qmlcache/all_aotstats.txt
+	/opt/homebrew/bin/cmake -E cat /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/.rcc/qmlcache/all_aotstats.txt
 
 .rcc/qmlcache/all_aotstats.aotstats: .rcc/qmlcache/module_appTeam02_DigitalTripBook.aotstats
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating .rcc/qmlcache/all_aotstats.aotstats, .rcc/qmlcache/all_aotstats.txt"
-	/opt/homebrew/share/qt/libexec/qmlaotstats aggregate /Users/luis/Desktop/Team02_DigitalTripBook/build/.rcc/qmlcache/all_aotstats.aotstatslist /Users/luis/Desktop/Team02_DigitalTripBook/build/.rcc/qmlcache/all_aotstats.aotstats
-	/opt/homebrew/share/qt/libexec/qmlaotstats format /Users/luis/Desktop/Team02_DigitalTripBook/build/.rcc/qmlcache/all_aotstats.aotstats /Users/luis/Desktop/Team02_DigitalTripBook/build/.rcc/qmlcache/all_aotstats.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating .rcc/qmlcache/all_aotstats.aotstats, .rcc/qmlcache/all_aotstats.txt"
+	/opt/homebrew/share/qt/libexec/qmlaotstats aggregate /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/.rcc/qmlcache/all_aotstats.aotstatslist /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/.rcc/qmlcache/all_aotstats.aotstats
+	/opt/homebrew/share/qt/libexec/qmlaotstats format /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/.rcc/qmlcache/all_aotstats.aotstats /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/.rcc/qmlcache/all_aotstats.txt
 
 .rcc/qmlcache/all_aotstats.txt: .rcc/qmlcache/all_aotstats.aotstats
 	@$(CMAKE_COMMAND) -E touch_nocreate .rcc/qmlcache/all_aotstats.txt
@@ -95,6 +95,6 @@ CMakeFiles/all_aotstats.dir/clean:
 .PHONY : CMakeFiles/all_aotstats.dir/clean
 
 CMakeFiles/all_aotstats.dir/depend:
-	cd /Users/luis/Desktop/Team02_DigitalTripBook/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/luis/Desktop/Team02_DigitalTripBook /Users/luis/Desktop/Team02_DigitalTripBook /Users/luis/Desktop/Team02_DigitalTripBook/build /Users/luis/Desktop/Team02_DigitalTripBook/build /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles/all_aotstats.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles/all_aotstats.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/all_aotstats.dir/depend
 

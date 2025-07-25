@@ -1,7 +1,7 @@
 --resource
-/Users/luis/Desktop/Team02_DigitalTripBook/build/.qt/rcc/qmake_Team02_DigitalTripBook.qrc
+/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/.qt/rcc/qmake_Team02_DigitalTripBook.qrc
 --resource
-/Users/luis/Desktop/Team02_DigitalTripBook/build/.qt/rcc/appTeam02_DigitalTripBook_raw_qml_0.qrc
+/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/.qt/rcc/appTeam02_DigitalTripBook_raw_qml_0.qrc
 /qt/qml/Team02_DigitalTripBook/Main.qml
 /qt/qml/Team02_DigitalTripBook/Colors.qml
 /qt/qml/Team02_DigitalTripBook/CustomButton.qml

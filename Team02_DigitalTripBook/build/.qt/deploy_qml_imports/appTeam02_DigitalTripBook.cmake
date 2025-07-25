@@ -9,7 +9,7 @@ endif()
 
 _qt_internal_deploy_qml_imports_for_target(
     ${__qt_opts}
-    IMPORTS_FILE "/Users/luis/Desktop/Team02_DigitalTripBook/build/.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake"
+    IMPORTS_FILE "/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/.qt/qml_imports/appTeam02_DigitalTripBook_build.cmake"
     PLUGINS_FOUND __qt_internal_plugins_found
     QML_DIR     "appTeam02_DigitalTripBook.app/Contents/Resources/qml"
     PLUGINS_DIR "appTeam02_DigitalTripBook.app/Contents/PlugIns"

@@ -57,10 +57,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/luis/Desktop/Team02_DigitalTripBook
+CMAKE_SOURCE_DIR = /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/luis/Desktop/Team02_DigitalTripBook/build
+CMAKE_BINARY_DIR = /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -132,9 +132,9 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles /Users/luis/Desktop/Team02_DigitalTripBook/build//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

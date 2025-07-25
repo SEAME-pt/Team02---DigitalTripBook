@@ -7,7 +7,7 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/Users/luis/Desktop/Team02_DigitalTripBook/CMakeLists.txt"
+  "/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/CMakeLists.txt"
   ".qt/info_plist/appTeam02_DigitalTripBook/Info.plist"
   ".qt/qml_imports/appTeam02_DigitalTripBook_conf.cmake"
   "CMakeFiles/4.0.2/CMakeCXXCompiler.cmake"

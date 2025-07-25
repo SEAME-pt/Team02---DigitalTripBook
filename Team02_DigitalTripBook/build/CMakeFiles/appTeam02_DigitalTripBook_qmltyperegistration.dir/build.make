@@ -53,10 +53,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/luis/Desktop/Team02_DigitalTripBook
+CMAKE_SOURCE_DIR = /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/luis/Desktop/Team02_DigitalTripBook/build
+CMAKE_BINARY_DIR = /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build
 
 # Utility rule file for appTeam02_DigitalTripBook_qmltyperegistration.
 
@@ -82,34 +82,34 @@ appteam02_digitaltripbook_qmltyperegistrations.cpp: /opt/homebrew/share/qt/metat
 appteam02_digitaltripbook_qmltyperegistrations.cpp: /opt/homebrew/share/qt/metatypes/qt6qmlworkerscript_release_metatypes.json
 appteam02_digitaltripbook_qmltyperegistrations.cpp: /opt/homebrew/share/qt/metatypes/qt6opengl_release_metatypes.json
 appteam02_digitaltripbook_qmltyperegistrations.cpp: /opt/homebrew/share/qt/metatypes/qt6sql_release_metatypes.json
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic QML type registration for target appTeam02_DigitalTripBook"
-	/opt/homebrew/share/qt/libexec/qmltyperegistrar --generate-qmltypes=/Users/luis/Desktop/Team02_DigitalTripBook/build/Team02_DigitalTripBook/appTeam02_DigitalTripBook.qmltypes --import-name=Team02_DigitalTripBook --major-version=1 --minor-version=0 @/Users/luis/Desktop/Team02_DigitalTripBook/build/qmltypes/appTeam02_DigitalTripBook_foreign_types.txt -o /Users/luis/Desktop/Team02_DigitalTripBook/build/appteam02_digitaltripbook_qmltyperegistrations.cpp /Users/luis/Desktop/Team02_DigitalTripBook/build/meta_types/qt6appteam02_digitaltripbook_metatypes.json
-	/opt/homebrew/bin/cmake -E make_directory /Users/luis/Desktop/Team02_DigitalTripBook/build/.qt/qmltypes
-	/opt/homebrew/bin/cmake -E touch /Users/luis/Desktop/Team02_DigitalTripBook/build/.qt/qmltypes/appTeam02_DigitalTripBook.qmltypes
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic QML type registration for target appTeam02_DigitalTripBook"
+	/opt/homebrew/share/qt/libexec/qmltyperegistrar --generate-qmltypes=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/Team02_DigitalTripBook/appTeam02_DigitalTripBook.qmltypes --import-name=Team02_DigitalTripBook --major-version=1 --minor-version=0 @/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/qmltypes/appTeam02_DigitalTripBook_foreign_types.txt -o /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/appteam02_digitaltripbook_qmltyperegistrations.cpp /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/meta_types/qt6appteam02_digitaltripbook_metatypes.json
+	/opt/homebrew/bin/cmake -E make_directory /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/.qt/qmltypes
+	/opt/homebrew/bin/cmake -E touch /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/.qt/qmltypes/appTeam02_DigitalTripBook.qmltypes
 
 Team02_DigitalTripBook/appTeam02_DigitalTripBook.qmltypes: appteam02_digitaltripbook_qmltyperegistrations.cpp
 	@$(CMAKE_COMMAND) -E touch_nocreate Team02_DigitalTripBook/appTeam02_DigitalTripBook.qmltypes
 
 meta_types/qt6appteam02_digitaltripbook_metatypes.json: meta_types/qt6appteam02_digitaltripbook_metatypes.json.gen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating meta_types/qt6appteam02_digitaltripbook_metatypes.json"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating meta_types/qt6appteam02_digitaltripbook_metatypes.json"
 	/opt/homebrew/bin/cmake -E true
 
 meta_types/qt6appteam02_digitaltripbook_metatypes.json.gen: /opt/homebrew/share/qt/libexec/moc
 meta_types/qt6appteam02_digitaltripbook_metatypes.json.gen: meta_types/appTeam02_DigitalTripBook_json_file_list.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Running moc --collect-json for target appTeam02_DigitalTripBook"
-	/opt/homebrew/share/qt/libexec/moc -o /Users/luis/Desktop/Team02_DigitalTripBook/build/meta_types/qt6appteam02_digitaltripbook_metatypes.json.gen --collect-json @/Users/luis/Desktop/Team02_DigitalTripBook/build/meta_types/appTeam02_DigitalTripBook_json_file_list.txt
-	/opt/homebrew/bin/cmake -E copy_if_different /Users/luis/Desktop/Team02_DigitalTripBook/build/meta_types/qt6appteam02_digitaltripbook_metatypes.json.gen /Users/luis/Desktop/Team02_DigitalTripBook/build/meta_types/qt6appteam02_digitaltripbook_metatypes.json
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Running moc --collect-json for target appTeam02_DigitalTripBook"
+	/opt/homebrew/share/qt/libexec/moc -o /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/meta_types/qt6appteam02_digitaltripbook_metatypes.json.gen --collect-json @/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/meta_types/appTeam02_DigitalTripBook_json_file_list.txt
+	/opt/homebrew/bin/cmake -E copy_if_different /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/meta_types/qt6appteam02_digitaltripbook_metatypes.json.gen /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/meta_types/qt6appteam02_digitaltripbook_metatypes.json
 
 meta_types/appTeam02_DigitalTripBook_json_file_list.txt: /opt/homebrew/share/qt/libexec/cmake_automoc_parser
 meta_types/appTeam02_DigitalTripBook_json_file_list.txt: appTeam02_DigitalTripBook_autogen/timestamp
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Running AUTOMOC file extraction for target appTeam02_DigitalTripBook"
-	/opt/homebrew/share/qt/libexec/cmake_automoc_parser --cmake-autogen-cache-file /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/ParseCache.txt --cmake-autogen-info-file /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/AutogenInfo.json --output-file-path /Users/luis/Desktop/Team02_DigitalTripBook/build/meta_types/appTeam02_DigitalTripBook_json_file_list.txt --timestamp-file-path /Users/luis/Desktop/Team02_DigitalTripBook/build/meta_types/appTeam02_DigitalTripBook_json_file_list.txt.timestamp --cmake-autogen-include-dir-path /Users/luis/Desktop/Team02_DigitalTripBook/build/appTeam02_DigitalTripBook_autogen/include
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Running AUTOMOC file extraction for target appTeam02_DigitalTripBook"
+	/opt/homebrew/share/qt/libexec/cmake_automoc_parser --cmake-autogen-cache-file /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/ParseCache.txt --cmake-autogen-info-file /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/AutogenInfo.json --output-file-path /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/meta_types/appTeam02_DigitalTripBook_json_file_list.txt --timestamp-file-path /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/meta_types/appTeam02_DigitalTripBook_json_file_list.txt.timestamp --cmake-autogen-include-dir-path /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/appTeam02_DigitalTripBook_autogen/include
 
 appTeam02_DigitalTripBook_autogen/timestamp: /opt/homebrew/share/qt/libexec/moc
 appTeam02_DigitalTripBook_autogen/timestamp: CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Automatic MOC and UIC for target appTeam02_DigitalTripBook"
-	/opt/homebrew/bin/cmake -E cmake_autogen /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/AutogenInfo.json ""
-	/opt/homebrew/bin/cmake -E touch /Users/luis/Desktop/Team02_DigitalTripBook/build/appTeam02_DigitalTripBook_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Automatic MOC and UIC for target appTeam02_DigitalTripBook"
+	/opt/homebrew/bin/cmake -E cmake_autogen /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/AutogenInfo.json ""
+	/opt/homebrew/bin/cmake -E touch /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/appTeam02_DigitalTripBook_autogen/timestamp
 
 CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/codegen:
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/codegen
@@ -133,6 +133,6 @@ CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/clean:
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/clean
 
 CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/depend:
-	cd /Users/luis/Desktop/Team02_DigitalTripBook/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/luis/Desktop/Team02_DigitalTripBook /Users/luis/Desktop/Team02_DigitalTripBook /Users/luis/Desktop/Team02_DigitalTripBook/build /Users/luis/Desktop/Team02_DigitalTripBook/build /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/depend
 

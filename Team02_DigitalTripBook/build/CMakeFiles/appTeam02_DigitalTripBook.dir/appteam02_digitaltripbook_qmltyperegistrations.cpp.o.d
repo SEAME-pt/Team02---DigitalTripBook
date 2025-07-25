@@ -1,5 +1,5 @@
 CMakeFiles/appTeam02_DigitalTripBook.dir/appteam02_digitaltripbook_qmltyperegistrations.cpp.o: \
-  /Users/luis/Desktop/Team02_DigitalTripBook/build/appteam02_digitaltripbook_qmltyperegistrations.cpp \
+  /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/appteam02_digitaltripbook_qmltyperegistrations.cpp \
   /opt/homebrew/include/QtQml/qqml.h \
   /opt/homebrew/include/QtQml/qqmlprivate.h \
   /opt/homebrew/include/QtQml/qjsprimitivevalue.h \

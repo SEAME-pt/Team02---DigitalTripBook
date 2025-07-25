@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 12,
-                        "durationMicroseconds": 907,
+                        "durationMicroseconds": 751,
                         "errorMessage": "Cannot load property background from Colors::currentTheme with type QVariant.",
                         "functionName": "color",
                         "line": 6
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 5,
-                        "durationMicroseconds": 201,
+                        "durationMicroseconds": 184,
                         "errorMessage": "",
                         "functionName": "themeButton",
                         "line": 18
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 5,
-                        "durationMicroseconds": 185,
+                        "durationMicroseconds": 163,
                         "errorMessage": "Cannot retrieve a non-object type by ID: stack",
                         "functionName": "backButton",
                         "line": 27
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 5,
-                        "durationMicroseconds": 422,
+                        "durationMicroseconds": 414,
                         "errorMessage": "Cannot retrieve a non-object type by ID: stack",
                         "functionName": "navigateToHome",
                         "line": 47
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 5,
-                        "durationMicroseconds": 201,
+                        "durationMicroseconds": 196,
                         "errorMessage": "Cannot retrieve a non-object type by ID: stack",
                         "functionName": "cancelToHome",
                         "line": 60
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 5,
-                        "durationMicroseconds": 17,
+                        "durationMicroseconds": 14,
                         "errorMessage": "Cannot retrieve a non-object type by ID: stack",
                         "functionName": "navigateToTripBooking",
                         "line": 68
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 5,
-                        "durationMicroseconds": 15,
+                        "durationMicroseconds": 12,
                         "errorMessage": "Cannot retrieve a non-object type by ID: stack",
                         "functionName": "navigateToExplore",
                         "line": 74
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 5,
-                        "durationMicroseconds": 16,
+                        "durationMicroseconds": 13,
                         "errorMessage": "Cannot retrieve a non-object type by ID: stack",
                         "functionName": "navigateToMyTrips",
                         "line": 80
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 5,
-                        "durationMicroseconds": 14,
+                        "durationMicroseconds": 12,
                         "errorMessage": "Cannot retrieve a non-object type by ID: stack",
                         "functionName": "navigateToStatistics",
                         "line": 86
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 5,
-                        "durationMicroseconds": 463,
+                        "durationMicroseconds": 422,
                         "errorMessage": "Cannot retrieve a non-object type by ID: stack",
                         "functionName": "safeNavigateHome",
                         "line": 99
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 22,
-                        "durationMicroseconds": 34,
+                        "durationMicroseconds": 35,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 113
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 115,
+                        "durationMicroseconds": 88,
                         "errorMessage": "",
                         "functionName": "topMargin",
                         "line": 114
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 26,
+                        "durationMicroseconds": 24,
                         "errorMessage": "",
                         "functionName": "horizontalAlignment",
                         "line": 131
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 21,
+                        "durationMicroseconds": 20,
                         "errorMessage": "",
                         "functionName": "wrapMode",
                         "line": 132
@@ -134,7 +134,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 67,
+                        "durationMicroseconds": 68,
                         "errorMessage": "",
                         "functionName": "pixelSize",
                         "line": 125
@@ -142,7 +142,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 22,
-                        "durationMicroseconds": 20,
+                        "durationMicroseconds": 19,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 126
@@ -150,7 +150,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 22,
-                        "durationMicroseconds": 27,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 128
@@ -158,7 +158,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 60,
+                        "durationMicroseconds": 59,
                         "errorMessage": "",
                         "functionName": "topMargin",
                         "line": 129
@@ -166,7 +166,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 35,
-                        "durationMicroseconds": 26,
+                        "durationMicroseconds": 24,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 130
@@ -222,7 +222,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 106,
+                        "durationMicroseconds": 100,
                         "errorMessage": "Cannot access value for name stack",
                         "functionName": "onLoadingComplete",
                         "line": 147
@@ -230,7 +230,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 23,
-                        "durationMicroseconds": 10,
+                        "durationMicroseconds": 8,
                         "errorMessage": "Cannot access value for name stack",
                         "functionName": "from",
                         "line": 158
@@ -238,7 +238,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 27,
-                        "durationMicroseconds": 7,
+                        "durationMicroseconds": 6,
                         "errorMessage": "Cannot access value for name applicationFlow",
                         "functionName": "duration",
                         "line": 160
@@ -246,7 +246,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 30,
-                        "durationMicroseconds": 35,
+                        "durationMicroseconds": 31,
                         "errorMessage": "Cannot access value for name Easing",
                         "functionName": "type",
                         "line": 161
@@ -262,7 +262,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 27,
-                        "durationMicroseconds": 7,
+                        "durationMicroseconds": 6,
                         "errorMessage": "Cannot access value for name applicationFlow",
                         "functionName": "duration",
                         "line": 170
@@ -270,7 +270,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 30,
-                        "durationMicroseconds": 29,
+                        "durationMicroseconds": 27,
                         "errorMessage": "Cannot access value for name Easing",
                         "functionName": "type",
                         "line": 171
@@ -286,7 +286,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 27,
-                        "durationMicroseconds": 7,
+                        "durationMicroseconds": 6,
                         "errorMessage": "Cannot access value for name applicationFlow",
                         "functionName": "duration",
                         "line": 180
@@ -326,7 +326,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 33,
-                        "durationMicroseconds": 11,
+                        "durationMicroseconds": 10,
                         "errorMessage": "Cannot access value for name applicationFlow",
                         "functionName": "onStartTripBooking",
                         "line": 200
@@ -334,7 +334,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 36,
-                        "durationMicroseconds": 11,
+                        "durationMicroseconds": 9,
                         "errorMessage": "Cannot access value for name applicationFlow",
                         "functionName": "onExploreDestinations",
                         "line": 201
@@ -342,7 +342,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 28,
-                        "durationMicroseconds": 9,
+                        "durationMicroseconds": 8,
                         "errorMessage": "Cannot access value for name applicationFlow",
                         "functionName": "onViewMyTrips",
                         "line": 202
@@ -358,7 +358,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 9,
+                        "durationMicroseconds": 8,
                         "errorMessage": "Cannot access value for name applicationFlow",
                         "functionName": "onShowTripDetails",
                         "line": 222
@@ -366,7 +366,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 32,
-                        "durationMicroseconds": 23,
+                        "durationMicroseconds": 24,
                         "errorMessage": "",
                         "functionName": "onShowTripDetails",
                         "line": 222
@@ -382,7 +382,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 21,
+                        "durationMicroseconds": 20,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 343
@@ -390,7 +390,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 18,
+                        "durationMicroseconds": 17,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 347
@@ -398,7 +398,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 17,
+                        "durationMicroseconds": 18,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 352
@@ -406,7 +406,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 17,
+                        "durationMicroseconds": 15,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 326
@@ -414,7 +414,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 16,
+                        "durationMicroseconds": 15,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 330
@@ -422,7 +422,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 16,
+                        "durationMicroseconds": 17,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 335
@@ -430,7 +430,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 16,
+                        "durationMicroseconds": 15,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 309
@@ -438,7 +438,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 14,
+                        "durationMicroseconds": 16,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 313
@@ -454,7 +454,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 16,
+                        "durationMicroseconds": 15,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 292
@@ -470,7 +470,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 16,
+                        "durationMicroseconds": 15,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 301
@@ -478,7 +478,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 14,
+                        "durationMicroseconds": 15,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 275
@@ -494,7 +494,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 22,
+                        "durationMicroseconds": 15,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 284
@@ -510,7 +510,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 18,
+                        "durationMicroseconds": 15,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 262
@@ -518,7 +518,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 18,
+                        "durationMicroseconds": 16,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 267
@@ -526,7 +526,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 17,
+                        "durationMicroseconds": 16,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 246
@@ -534,13 +534,13 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 18,
+                        "durationMicroseconds": 15,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 251
                     }
                 ],
-                "filepath": "/Users/luis/Desktop/Team02_DigitalTripBook/ApplicationFlow.qml"
+                "filepath": "/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/ApplicationFlow.qml"
             }
         ],
         "moduleId": "Team02_DigitalTripBook(appTeam02_DigitalTripBook)"

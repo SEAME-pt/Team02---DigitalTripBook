@@ -1,4 +1,4 @@
-# Install script for directory: /Users/luis/Desktop/Team02_DigitalTripBook
+# Install script for directory: /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,7 +38,7 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/." TYPE DIRECTORY FILES "/Users/luis/Desktop/Team02_DigitalTripBook/build/appTeam02_DigitalTripBook.app" USE_SOURCE_PERMISSIONS)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/." TYPE DIRECTORY FILES "/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/appTeam02_DigitalTripBook.app" USE_SOURCE_PERMISSIONS)
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/./appTeam02_DigitalTripBook.app/Contents/MacOS/appTeam02_DigitalTripBook" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/./appTeam02_DigitalTripBook.app/Contents/MacOS/appTeam02_DigitalTripBook")
     execute_process(COMMAND /usr/bin/install_name_tool
@@ -51,7 +51,7 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/Users/luis/Desktop/Team02_DigitalTripBook/build/install_local_manifest.txt"
+  file(WRITE "/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
 if(CMAKE_INSTALL_COMPONENT)
@@ -67,6 +67,6 @@ else()
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/Users/luis/Desktop/Team02_DigitalTripBook/build/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

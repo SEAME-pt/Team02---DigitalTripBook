@@ -1,5 +1,5 @@
 CMakeFiles/appTeam02_DigitalTripBook.dir/main.cpp.o: \
-  /Users/luis/Desktop/Team02_DigitalTripBook/main.cpp \
+  /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/main.cpp \
   /opt/homebrew/lib/QtGui.framework/Headers/QGuiApplication \
   /opt/homebrew/lib/QtGui.framework/Headers/qguiapplication.h \
   /opt/homebrew/include/QtGui/qtguiglobal.h \
@@ -985,7 +985,7 @@ CMakeFiles/appTeam02_DigitalTripBook.dir/main.cpp.o: \
   /opt/homebrew/include/QtQml/qqmlabstracturlinterceptor.h \
   /opt/homebrew/lib/QtQml.framework/Headers/QQmlContext \
   /opt/homebrew/lib/QtQml.framework/Headers/qqmlcontext.h \
-  /Users/luis/Desktop/Team02_DigitalTripBook/influxdbclient.h \
+  /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/influxdbclient.h \
   /opt/homebrew/lib/QtCore.framework/Headers/QObject \
   /opt/homebrew/lib/QtCore.framework/Headers/qobject.h \
   /opt/homebrew/lib/QtNetwork.framework/Headers/QNetworkAccessManager \

@@ -136,18 +136,18 @@ void InfluxDBClient::fetchHistoricalData(int hoursBack)
             this, &InfluxDBClient::onNetworkError);
 }
 
-QString InfluxDBClient::buildHistoricalQuery(int hoursBack)
+QString InfluxDBClient::buildHistoricalQuery(int /*unused*/)
 {
-    // Exact dataHandler Flux query for trip analysis (gets last 24h of data chronologically)
+    // Exact dataHandler Flux query for trip analysis (gets the last 10 days of data chronologically)
     QString fluxQuery = QString(
         "from(bucket: \"%1\")"
-        " |> range(start: -%2h)"  // Get last N hours of data for trip analysis
+        " |> range(start: -10d)"  // Get last 10 days of data for trip analysis
         " |> filter(fn: (r) => r[\"_measurement\"] == \"Vehicle/1/qt/speed\" or r[\"_measurement\"] == \"Vehicle/1/qt/charge\")"
         " |> sort(columns: [\"_time\"])"  // Sort by time to ensure chronological order
         " |> yield(name: \"vehicle_data\")"
-    ).arg(m_influxDatabase).arg(hoursBack);
+    ).arg(m_influxDatabase);
     
-    qDebug() << "InfluxDBClient: DataHandler-style query for Vehicle/1/qt/speed and Vehicle/1/qt/charge data (last" << hoursBack << "h):" << fluxQuery;
+    qDebug() << "InfluxDBClient: DataHandler-style query for Vehicle/1/qt/speed and Vehicle/1/qt/charge data (last 10 days):" << fluxQuery;
     
     return fluxQuery;
 }

@@ -54,10 +54,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/luis/Desktop/Team02_DigitalTripBook
+CMAKE_SOURCE_DIR = /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/luis/Desktop/Team02_DigitalTripBook/build
+CMAKE_BINARY_DIR = /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -97,21 +97,21 @@ clean: CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/clean
 # Target rules for target CMakeFiles/appTeam02_DigitalTripBook.dir
 
 # All Build rule for target.
-CMakeFiles/appTeam02_DigitalTripBook.dir/all: CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/all
-CMakeFiles/appTeam02_DigitalTripBook.dir/all: CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/all
 CMakeFiles/appTeam02_DigitalTripBook.dir/all: CMakeFiles/appTeam02_DigitalTripBook_copy_qml.dir/all
 CMakeFiles/appTeam02_DigitalTripBook.dir/all: CMakeFiles/appTeam02_DigitalTripBook_copy_res.dir/all
 CMakeFiles/appTeam02_DigitalTripBook.dir/all: CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan.dir/all
+CMakeFiles/appTeam02_DigitalTripBook.dir/all: CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/all
+CMakeFiles/appTeam02_DigitalTripBook.dir/all: CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook.dir/build.make CMakeFiles/appTeam02_DigitalTripBook.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook.dir/build.make CMakeFiles/appTeam02_DigitalTripBook.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num=2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41 "Built target appTeam02_DigitalTripBook"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num=2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41 "Built target appTeam02_DigitalTripBook"
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/appTeam02_DigitalTripBook.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 44
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 44
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/appTeam02_DigitalTripBook.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 0
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook.dir/rule
 
 # Convenience name for target.
@@ -119,10 +119,10 @@ appTeam02_DigitalTripBook: CMakeFiles/appTeam02_DigitalTripBook.dir/rule
 .PHONY : appTeam02_DigitalTripBook
 
 # codegen rule for target.
-CMakeFiles/appTeam02_DigitalTripBook.dir/codegen: CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/all
 CMakeFiles/appTeam02_DigitalTripBook.dir/codegen: CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan.dir/all
+CMakeFiles/appTeam02_DigitalTripBook.dir/codegen: CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook.dir/build.make CMakeFiles/appTeam02_DigitalTripBook.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num=2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41 "Finished codegen for target appTeam02_DigitalTripBook"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num=2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41 "Finished codegen for target appTeam02_DigitalTripBook"
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook.dir/codegen
 
 # clean rule for target.
@@ -137,14 +137,14 @@ CMakeFiles/appTeam02_DigitalTripBook.dir/clean:
 CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/all: CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num=46,47,48,49,50 "Built target appTeam02_DigitalTripBook_qmltyperegistration"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num=46,47,48,49,50 "Built target appTeam02_DigitalTripBook_qmltyperegistration"
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 8
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 0
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/rule
 
 # Convenience name for target.
@@ -154,7 +154,7 @@ appTeam02_DigitalTripBook_qmltyperegistration: CMakeFiles/appTeam02_DigitalTripB
 # codegen rule for target.
 CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/codegen: CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num=46,47,48,49,50 "Finished codegen for target appTeam02_DigitalTripBook_qmltyperegistration"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num=46,47,48,49,50 "Finished codegen for target appTeam02_DigitalTripBook_qmltyperegistration"
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/codegen
 
 # clean rule for target.
@@ -169,14 +169,14 @@ CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/clean:
 CMakeFiles/all_qmltyperegistrations.dir/all: CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/all_qmltyperegistrations.dir/build.make CMakeFiles/all_qmltyperegistrations.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/all_qmltyperegistrations.dir/build.make CMakeFiles/all_qmltyperegistrations.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Built target all_qmltyperegistrations"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Built target all_qmltyperegistrations"
 .PHONY : CMakeFiles/all_qmltyperegistrations.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/all_qmltyperegistrations.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 8
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/all_qmltyperegistrations.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 0
 .PHONY : CMakeFiles/all_qmltyperegistrations.dir/rule
 
 # Convenience name for target.
@@ -186,7 +186,7 @@ all_qmltyperegistrations: CMakeFiles/all_qmltyperegistrations.dir/rule
 # codegen rule for target.
 CMakeFiles/all_qmltyperegistrations.dir/codegen: CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/all_qmltyperegistrations.dir/build.make CMakeFiles/all_qmltyperegistrations.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Finished codegen for target all_qmltyperegistrations"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Finished codegen for target all_qmltyperegistrations"
 .PHONY : CMakeFiles/all_qmltyperegistrations.dir/codegen
 
 # clean rule for target.
@@ -201,14 +201,14 @@ CMakeFiles/all_qmltyperegistrations.dir/clean:
 CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/all: CMakeFiles/all_qmltyperegistrations.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Built target appTeam02_DigitalTripBook_qmllint"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Built target appTeam02_DigitalTripBook_qmllint"
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 8
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 0
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/rule
 
 # Convenience name for target.
@@ -218,7 +218,7 @@ appTeam02_DigitalTripBook_qmllint: CMakeFiles/appTeam02_DigitalTripBook_qmllint.
 # codegen rule for target.
 CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/codegen: CMakeFiles/all_qmltyperegistrations.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Finished codegen for target appTeam02_DigitalTripBook_qmllint"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Finished codegen for target appTeam02_DigitalTripBook_qmllint"
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/codegen
 
 # clean rule for target.
@@ -233,14 +233,14 @@ CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/clean:
 CMakeFiles/appTeam02_DigitalTripBook_qmllint_json.dir/all: CMakeFiles/all_qmltyperegistrations.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_qmllint_json.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_qmllint_json.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_qmllint_json.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_qmllint_json.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Built target appTeam02_DigitalTripBook_qmllint_json"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Built target appTeam02_DigitalTripBook_qmllint_json"
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_qmllint_json.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/appTeam02_DigitalTripBook_qmllint_json.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 8
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/appTeam02_DigitalTripBook_qmllint_json.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 0
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_qmllint_json.dir/rule
 
 # Convenience name for target.
@@ -250,7 +250,7 @@ appTeam02_DigitalTripBook_qmllint_json: CMakeFiles/appTeam02_DigitalTripBook_qml
 # codegen rule for target.
 CMakeFiles/appTeam02_DigitalTripBook_qmllint_json.dir/codegen: CMakeFiles/all_qmltyperegistrations.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_qmllint_json.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_qmllint_json.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Finished codegen for target appTeam02_DigitalTripBook_qmllint_json"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Finished codegen for target appTeam02_DigitalTripBook_qmllint_json"
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_qmllint_json.dir/codegen
 
 # clean rule for target.
@@ -265,14 +265,14 @@ CMakeFiles/appTeam02_DigitalTripBook_qmllint_json.dir/clean:
 CMakeFiles/appTeam02_DigitalTripBook_qmllint_module.dir/all: CMakeFiles/all_qmltyperegistrations.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_qmllint_module.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_qmllint_module.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_qmllint_module.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_qmllint_module.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Built target appTeam02_DigitalTripBook_qmllint_module"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Built target appTeam02_DigitalTripBook_qmllint_module"
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_qmllint_module.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/appTeam02_DigitalTripBook_qmllint_module.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 8
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/appTeam02_DigitalTripBook_qmllint_module.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 0
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_qmllint_module.dir/rule
 
 # Convenience name for target.
@@ -282,7 +282,7 @@ appTeam02_DigitalTripBook_qmllint_module: CMakeFiles/appTeam02_DigitalTripBook_q
 # codegen rule for target.
 CMakeFiles/appTeam02_DigitalTripBook_qmllint_module.dir/codegen: CMakeFiles/all_qmltyperegistrations.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_qmllint_module.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_qmllint_module.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Finished codegen for target appTeam02_DigitalTripBook_qmllint_module"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Finished codegen for target appTeam02_DigitalTripBook_qmllint_module"
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_qmllint_module.dir/codegen
 
 # clean rule for target.
@@ -297,14 +297,14 @@ CMakeFiles/appTeam02_DigitalTripBook_qmllint_module.dir/clean:
 CMakeFiles/all_qmllint.dir/all: CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/all_qmllint.dir/build.make CMakeFiles/all_qmllint.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/all_qmllint.dir/build.make CMakeFiles/all_qmllint.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Built target all_qmllint"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Built target all_qmllint"
 .PHONY : CMakeFiles/all_qmllint.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/all_qmllint.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 8
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/all_qmllint.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 0
 .PHONY : CMakeFiles/all_qmllint.dir/rule
 
 # Convenience name for target.
@@ -314,7 +314,7 @@ all_qmllint: CMakeFiles/all_qmllint.dir/rule
 # codegen rule for target.
 CMakeFiles/all_qmllint.dir/codegen: CMakeFiles/appTeam02_DigitalTripBook_qmllint.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/all_qmllint.dir/build.make CMakeFiles/all_qmllint.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Finished codegen for target all_qmllint"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Finished codegen for target all_qmllint"
 .PHONY : CMakeFiles/all_qmllint.dir/codegen
 
 # clean rule for target.
@@ -329,14 +329,14 @@ CMakeFiles/all_qmllint.dir/clean:
 CMakeFiles/all_qmllint_json.dir/all: CMakeFiles/appTeam02_DigitalTripBook_qmllint_json.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/all_qmllint_json.dir/build.make CMakeFiles/all_qmllint_json.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/all_qmllint_json.dir/build.make CMakeFiles/all_qmllint_json.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Built target all_qmllint_json"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Built target all_qmllint_json"
 .PHONY : CMakeFiles/all_qmllint_json.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/all_qmllint_json.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 8
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/all_qmllint_json.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 0
 .PHONY : CMakeFiles/all_qmllint_json.dir/rule
 
 # Convenience name for target.
@@ -346,7 +346,7 @@ all_qmllint_json: CMakeFiles/all_qmllint_json.dir/rule
 # codegen rule for target.
 CMakeFiles/all_qmllint_json.dir/codegen: CMakeFiles/appTeam02_DigitalTripBook_qmllint_json.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/all_qmllint_json.dir/build.make CMakeFiles/all_qmllint_json.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Finished codegen for target all_qmllint_json"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Finished codegen for target all_qmllint_json"
 .PHONY : CMakeFiles/all_qmllint_json.dir/codegen
 
 # clean rule for target.
@@ -361,14 +361,14 @@ CMakeFiles/all_qmllint_json.dir/clean:
 CMakeFiles/all_qmllint_module.dir/all: CMakeFiles/appTeam02_DigitalTripBook_qmllint_module.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/all_qmllint_module.dir/build.make CMakeFiles/all_qmllint_module.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/all_qmllint_module.dir/build.make CMakeFiles/all_qmllint_module.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Built target all_qmllint_module"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Built target all_qmllint_module"
 .PHONY : CMakeFiles/all_qmllint_module.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/all_qmllint_module.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 8
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/all_qmllint_module.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 0
 .PHONY : CMakeFiles/all_qmllint_module.dir/rule
 
 # Convenience name for target.
@@ -378,7 +378,7 @@ all_qmllint_module: CMakeFiles/all_qmllint_module.dir/rule
 # codegen rule for target.
 CMakeFiles/all_qmllint_module.dir/codegen: CMakeFiles/appTeam02_DigitalTripBook_qmllint_module.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/all_qmllint_module.dir/build.make CMakeFiles/all_qmllint_module.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Finished codegen for target all_qmllint_module"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Finished codegen for target all_qmllint_module"
 .PHONY : CMakeFiles/all_qmllint_module.dir/codegen
 
 # clean rule for target.
@@ -393,14 +393,14 @@ CMakeFiles/all_qmllint_module.dir/clean:
 CMakeFiles/appTeam02_DigitalTripBook_copy_qml.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_copy_qml.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_copy_qml.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_copy_qml.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_copy_qml.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num=43 "Built target appTeam02_DigitalTripBook_copy_qml"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num=43 "Built target appTeam02_DigitalTripBook_copy_qml"
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_copy_qml.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/appTeam02_DigitalTripBook_copy_qml.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/appTeam02_DigitalTripBook_copy_qml.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 0
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_copy_qml.dir/rule
 
 # Convenience name for target.
@@ -410,7 +410,7 @@ appTeam02_DigitalTripBook_copy_qml: CMakeFiles/appTeam02_DigitalTripBook_copy_qm
 # codegen rule for target.
 CMakeFiles/appTeam02_DigitalTripBook_copy_qml.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_copy_qml.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_copy_qml.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num=43 "Finished codegen for target appTeam02_DigitalTripBook_copy_qml"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num=43 "Finished codegen for target appTeam02_DigitalTripBook_copy_qml"
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_copy_qml.dir/codegen
 
 # clean rule for target.
@@ -425,14 +425,14 @@ CMakeFiles/appTeam02_DigitalTripBook_copy_qml.dir/clean:
 CMakeFiles/appTeam02_DigitalTripBook_copy_res.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_copy_res.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_copy_res.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_copy_res.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_copy_res.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num=44 "Built target appTeam02_DigitalTripBook_copy_res"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num=44 "Built target appTeam02_DigitalTripBook_copy_res"
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_copy_res.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/appTeam02_DigitalTripBook_copy_res.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/appTeam02_DigitalTripBook_copy_res.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 0
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_copy_res.dir/rule
 
 # Convenience name for target.
@@ -442,7 +442,7 @@ appTeam02_DigitalTripBook_copy_res: CMakeFiles/appTeam02_DigitalTripBook_copy_re
 # codegen rule for target.
 CMakeFiles/appTeam02_DigitalTripBook_copy_res.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_copy_res.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_copy_res.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num=44 "Finished codegen for target appTeam02_DigitalTripBook_copy_res"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num=44 "Finished codegen for target appTeam02_DigitalTripBook_copy_res"
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_copy_res.dir/codegen
 
 # clean rule for target.
@@ -454,18 +454,18 @@ CMakeFiles/appTeam02_DigitalTripBook_copy_res.dir/clean:
 # Target rules for target CMakeFiles/module_appTeam02_DigitalTripBook_aotstats_target.dir
 
 # All Build rule for target.
-CMakeFiles/module_appTeam02_DigitalTripBook_aotstats_target.dir/all: CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/all
 CMakeFiles/module_appTeam02_DigitalTripBook_aotstats_target.dir/all: CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/all
+CMakeFiles/module_appTeam02_DigitalTripBook_aotstats_target.dir/all: CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/module_appTeam02_DigitalTripBook_aotstats_target.dir/build.make CMakeFiles/module_appTeam02_DigitalTripBook_aotstats_target.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/module_appTeam02_DigitalTripBook_aotstats_target.dir/build.make CMakeFiles/module_appTeam02_DigitalTripBook_aotstats_target.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num=51,52,53,54,55,56,57,58,59,60,61,62,63 "Built target module_appTeam02_DigitalTripBook_aotstats_target"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num=51,52,53,54,55,56,57,58,59,60,61,62,63 "Built target module_appTeam02_DigitalTripBook_aotstats_target"
 .PHONY : CMakeFiles/module_appTeam02_DigitalTripBook_aotstats_target.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/module_appTeam02_DigitalTripBook_aotstats_target.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 21
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 21
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/module_appTeam02_DigitalTripBook_aotstats_target.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 0
 .PHONY : CMakeFiles/module_appTeam02_DigitalTripBook_aotstats_target.dir/rule
 
 # Convenience name for target.
@@ -473,10 +473,10 @@ module_appTeam02_DigitalTripBook_aotstats_target: CMakeFiles/module_appTeam02_Di
 .PHONY : module_appTeam02_DigitalTripBook_aotstats_target
 
 # codegen rule for target.
-CMakeFiles/module_appTeam02_DigitalTripBook_aotstats_target.dir/codegen: CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/all
 CMakeFiles/module_appTeam02_DigitalTripBook_aotstats_target.dir/codegen: CMakeFiles/appTeam02_DigitalTripBook_qmltyperegistration.dir/all
+CMakeFiles/module_appTeam02_DigitalTripBook_aotstats_target.dir/codegen: CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/module_appTeam02_DigitalTripBook_aotstats_target.dir/build.make CMakeFiles/module_appTeam02_DigitalTripBook_aotstats_target.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num=51,52,53,54,55,56,57,58,59,60,61,62,63 "Finished codegen for target module_appTeam02_DigitalTripBook_aotstats_target"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num=51,52,53,54,55,56,57,58,59,60,61,62,63 "Finished codegen for target module_appTeam02_DigitalTripBook_aotstats_target"
 .PHONY : CMakeFiles/module_appTeam02_DigitalTripBook_aotstats_target.dir/codegen
 
 # clean rule for target.
@@ -488,18 +488,18 @@ CMakeFiles/module_appTeam02_DigitalTripBook_aotstats_target.dir/clean:
 # Target rules for target CMakeFiles/all_aotstats.dir
 
 # All Build rule for target.
-CMakeFiles/all_aotstats.dir/all: CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/all
 CMakeFiles/all_aotstats.dir/all: CMakeFiles/module_appTeam02_DigitalTripBook_aotstats_target.dir/all
+CMakeFiles/all_aotstats.dir/all: CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/all_aotstats.dir/build.make CMakeFiles/all_aotstats.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/all_aotstats.dir/build.make CMakeFiles/all_aotstats.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num=1 "Built target all_aotstats"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num=1 "Built target all_aotstats"
 .PHONY : CMakeFiles/all_aotstats.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/all_aotstats.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 22
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 22
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/all_aotstats.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 0
 .PHONY : CMakeFiles/all_aotstats.dir/rule
 
 # Convenience name for target.
@@ -507,10 +507,10 @@ all_aotstats: CMakeFiles/all_aotstats.dir/rule
 .PHONY : all_aotstats
 
 # codegen rule for target.
-CMakeFiles/all_aotstats.dir/codegen: CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/all
 CMakeFiles/all_aotstats.dir/codegen: CMakeFiles/module_appTeam02_DigitalTripBook_aotstats_target.dir/all
+CMakeFiles/all_aotstats.dir/codegen: CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/all_aotstats.dir/build.make CMakeFiles/all_aotstats.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num=1 "Finished codegen for target all_aotstats"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num=1 "Finished codegen for target all_aotstats"
 .PHONY : CMakeFiles/all_aotstats.dir/codegen
 
 # clean rule for target.
@@ -525,14 +525,14 @@ CMakeFiles/all_aotstats.dir/clean:
 CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num=45 "Built target appTeam02_DigitalTripBook_qmlimportscan"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num=45 "Built target appTeam02_DigitalTripBook_qmlimportscan"
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 0
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan.dir/rule
 
 # Convenience name for target.
@@ -542,7 +542,7 @@ appTeam02_DigitalTripBook_qmlimportscan: CMakeFiles/appTeam02_DigitalTripBook_qm
 # codegen rule for target.
 CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num=45 "Finished codegen for target appTeam02_DigitalTripBook_qmlimportscan"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num=45 "Finished codegen for target appTeam02_DigitalTripBook_qmlimportscan"
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan.dir/codegen
 
 # clean rule for target.
@@ -559,14 +559,14 @@ CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/all: CMakeFiles/
 CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/all: CMakeFiles/appTeam02_DigitalTripBook_qmlimportscan.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Built target appTeam02_DigitalTripBook_autogen_timestamp_deps"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Built target appTeam02_DigitalTripBook_autogen_timestamp_deps"
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 0
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/rule
 
 # Convenience name for target.
@@ -576,7 +576,7 @@ appTeam02_DigitalTripBook_autogen_timestamp_deps: CMakeFiles/appTeam02_DigitalTr
 # codegen rule for target.
 CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Finished codegen for target appTeam02_DigitalTripBook_autogen_timestamp_deps"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num= "Finished codegen for target appTeam02_DigitalTripBook_autogen_timestamp_deps"
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/codegen
 
 # clean rule for target.
@@ -591,14 +591,14 @@ CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/clean:
 CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/all: CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num=42 "Built target appTeam02_DigitalTripBook_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num=42 "Built target appTeam02_DigitalTripBook_autogen"
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles 0
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/rule
 
 # Convenience name for target.
@@ -608,7 +608,7 @@ appTeam02_DigitalTripBook_autogen: CMakeFiles/appTeam02_DigitalTripBook_autogen.
 # codegen rule for target.
 CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/codegen: CMakeFiles/appTeam02_DigitalTripBook_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/build.make CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles --progress-num=42 "Finished codegen for target appTeam02_DigitalTripBook_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles --progress-num=42 "Finished codegen for target appTeam02_DigitalTripBook_autogen"
 .PHONY : CMakeFiles/appTeam02_DigitalTripBook_autogen.dir/codegen
 
 # clean rule for target.

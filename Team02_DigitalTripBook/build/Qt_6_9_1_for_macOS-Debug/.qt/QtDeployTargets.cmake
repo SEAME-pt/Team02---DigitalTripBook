@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_appTeam02_DigitalTripBook_FILE /Users/luis/Desktop/Team02_DigitalTripBook/build/Qt_6_9_1_for_macOS-Debug/appTeam02_DigitalTripBook.app/Contents/MacOS/appTeam02_DigitalTripBook)
-set(__QT_DEPLOY_TARGET_appTeam02_DigitalTripBook_TYPE EXECUTABLE)

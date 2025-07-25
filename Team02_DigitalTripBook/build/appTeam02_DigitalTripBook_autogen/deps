@@ -757,14 +757,14 @@ appTeam02_DigitalTripBook_autogen/timestamp: \
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/__stdarg_va_list.h \
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/limits.h \
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
-	/Users/luis/Desktop/Team02_DigitalTripBook/CMakeLists.txt \
-	/Users/luis/Desktop/Team02_DigitalTripBook/build/.qt/qml_imports/appTeam02_DigitalTripBook_conf.cmake \
-	/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles/4.0.2/CMakeCXXCompiler.cmake \
-	/Users/luis/Desktop/Team02_DigitalTripBook/build/CMakeFiles/4.0.2/CMakeSystem.cmake \
-	/Users/luis/Desktop/Team02_DigitalTripBook/build/appTeam02_DigitalTripBook_autogen/moc_predefs.h \
-	/Users/luis/Desktop/Team02_DigitalTripBook/influxdbclient.cpp \
-	/Users/luis/Desktop/Team02_DigitalTripBook/influxdbclient.h \
-	/Users/luis/Desktop/Team02_DigitalTripBook/main.cpp \
+	/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/CMakeLists.txt \
+	/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/.qt/qml_imports/appTeam02_DigitalTripBook_conf.cmake \
+	/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles/4.0.2/CMakeCXXCompiler.cmake \
+	/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/CMakeFiles/4.0.2/CMakeSystem.cmake \
+	/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/build/appTeam02_DigitalTripBook_autogen/moc_predefs.h \
+	/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/influxdbclient.cpp \
+	/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/influxdbclient.h \
+	/Users/luis/Desktop/Team02---DigitalTripBook/Team02_DigitalTripBook/main.cpp \
 	/opt/homebrew/Cellar/qt/6.9.0/lib/QtCore.framework/Versions/A/Headers/QDateTime \
 	/opt/homebrew/Cellar/qt/6.9.0/lib/QtCore.framework/Versions/A/Headers/QDir \
 	/opt/homebrew/Cellar/qt/6.9.0/lib/QtCore.framework/Versions/A/Headers/QFlags \
